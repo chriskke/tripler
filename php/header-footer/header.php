@@ -30,6 +30,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="author" content="uwu">
         <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <base href="/" />
         <meta name="description" content="For over 30 years, we have proudly established ourselves as a leading shade supplier in the market, providing innovative and high-quality products that enhance outdoor living.">
         <meta name="keywords" content="Triple R, Shades, Awning, skylight, Louvers, Garden Umbrella, Awning Parts, Accessories">
         <link rel="canonical" href="https://tripler.com.my/index.php	" />
@@ -71,10 +72,10 @@
             <nav class="navbar navbar-expand-lg header-transparent bg-transparent header-reverse" data-header-hover="dark">
                 <div class="container-fluid">
                     <div class="col-auto col-xxl-3 col-lg-2 me-lg-0 me-auto">
-                        <a class="navbar-brand" href="index.php">
-                            <img src="img/logo.png" data-at2x="img/logo.png" alt="" class="default-logo">
-                            <img src="img/logo.png" data-at2x="img/logo.png" alt="" class="alt-logo">
-                            <img src="img/logo.png" data-at2x="img/logo.png" alt="" class="mobile-logo"> 
+                        <a class="navbar-brand" href="/">
+                            <img src="/img/logo.png" data-at2x="/img/logo.png" alt="" class="default-logo">
+                            <img src="/img/logo.png" data-at2x="/img/logo.png" alt="" class="alt-logo">
+                            <img src="/img/logo.png" data-at2x="/img/logo.png" alt="" class="mobile-logo"> 
                         </a>
                     </div>
                     <div class="col-auto menu-order position-static">
@@ -86,24 +87,24 @@
                         </button>
                         <div class="collapse navbar-collapse" id="navbarNav"> 
                             <ul class="navbar-nav alt-font"> 
-                                <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
-                                <li class="nav-item"><a href="about-us.php" class="nav-link">About Us</a></li>
+                                <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
+                                <li class="nav-item"><a href="/about-us/" class="nav-link">About Us</a></li>
                                 <li class="nav-item dropdown dropdown-with-icon-style02">
                                     <a href="#" class="nav-link">Products</a>
                                     <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                        <li><a href="retractable-awning.php">Retractacble Awning</a></li>
-                                        <li><a href="skylite.php">Skylight Blinds</a></li>
-                                        <li><a href="pergola.php">Louvers Pergola</a></li>
-                                        <li><a href="loop.php">Loop Awning</a></li>
-                                        <li><a href="jumbrella.php">Jumbrella</a></li>
-                                        <li><a href="parasols.php" disabled>Parasols</a></li>
-                                        <!-- <li><a href="accessories.php">Parts & Accessories</a></li> -->
+                                        <li><a href="/retractable-awning/">Retractacble Awning</a></li>
+                                        <li><a href="/skylite/">Skylight Blinds</a></li>
+                                        <li><a href="/pergola/">Louvers Pergola</a></li>
+                                        <li><a href="/loop/">Loop Awning</a></li>
+                                        <li><a href="/jumbrella/">Jumbrella</a></li>
+                                        <li><a href="/parasols/" disabled>Parasols</a></li>
+                                        <!-- <li><a href="/accessories/">Parts & Accessories</a></li> -->
                                     </ul>
                                 </li>
-                                <!-- <li class="nav-item"><a href="dealer.php" class="nav-link">Dealer Wanted</a></li> -->
-                                <li class="nav-item"><a href="gallery.php" class="nav-link">Gallery</a></li>
-                                <li class="nav-item"><a href="contact.php" class="nav-link">Contact Us</a></li>
+                                <!-- <li class="nav-item"><a href="/dealer/" class="nav-link">Dealer Wanted</a></li> -->
+                                <li class="nav-item"><a href="/gallery/" class="nav-link">Gallery</a></li>
+                                <li class="nav-item"><a href="/contact/" class="nav-link">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
