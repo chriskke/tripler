@@ -111,3 +111,13 @@
     line-height: 89%;
     padding: 3%;
   }
+
+@media (max-width: 767px) {
+    .mobile-hero-padding {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .swiper.full-screen, .swiper .h-100 {
+        height: auto !important;
+    }
+}

@@ -7,7 +7,7 @@
             <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-3.jpg');"> 
                 <div class="container h-100">
                     <div class="row align-items-center h-100">
-                        <div class="col-md-10 position-relative text-white">
+                        <div class="col-md-10 position-relative text-white mobile-hero-padding">
                             <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
                                 <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
                             </h1>
@@ -22,7 +22,7 @@
             <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-1.jpg');"> 
                 <div class="container h-100">
                     <div class="row align-items-center h-100">
-                        <div class="col-md-10 position-relative text-white"> 
+                        <div class="col-md-10 position-relative text-white mobile-hero-padding"> 
                             <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
                                 <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
                             </h1>
@@ -37,7 +37,7 @@
             <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-2.jpg');"> 
                 <div class="container h-100">
                     <div class="row align-items-center h-100">
-                        <div class="col-md-12 position-relative text-white"> 
+                        <div class="col-md-12 position-relative text-white mobile-hero-padding"> 
                             <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
                                 <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
                             </h1>
