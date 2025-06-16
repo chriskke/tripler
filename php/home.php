@@ -319,7 +319,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <img src="img/gallery/new/gallery-17.jpg" alt="">
+                        <a href="/retractable-awning/"><img src="img/gallery/new/gallery-17.jpg" alt="Retractable Awnings"></a>
                     </div>
                     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -327,7 +327,7 @@
                             <span class="fw-600 text-base-color">01</span>
                         </div>
                         <div class="col-md-12">
-                            <span class="text-white fw-500 fs-18"><b>Retractable Awnings:</b> </span><br>
+                            <a href="/retractable-awning/" class="text-decoration-underline text-white"><span class="text-white fw-500 fs-18"><b>Retractable Awnings:</b> </span></a><br>
                             <span class="text-white fw-200 fs-15">A Experience the ultimate flexibility with our retractable awnings. These innovative solutions allow you to control your outdoor space effortlessly, providing shade when you need it and retracting to let in the sun when you desire. Perfect for patios, decks, and balconies, our awnings are designed to withstand the elements while enhancing the aesthetic appeal of your property.</span>
                         </div>
                     </div>
@@ -335,7 +335,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <img src="img/products/gallery-louvers-1.jpg" alt="">
+                        <a href="/pergola/"><img src="img/products/gallery-louvers-1.jpg" alt="Motorized Louvers Pergola"></a>
                     </div>
                     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -343,7 +343,7 @@
                             <span class="fw-600 text-base-color">02</span>
                         </div>
                         <div class="col-md-12">
-                            <span class="text-white fw-500 fs-18"><b>Motorized Louvers Pergola:</b> </span><br>
+                            <a href="/pergola/" class="text-decoration-underline text-white"><span class="text-white fw-500 fs-18"><b>Motorized Louvers Pergola:</b> </span></a><br>
                             <span class="text-white fw-200 fs-15">Transform your outdoor living area with our motorized louvers pergolas. These sophisticated structures offer adjustable slats that can be opened or closed at the touch of a button, allowing you to regulate sunlight and shade according to your preferences. Ideal for gardens, restaurants, and commercial spaces, our pergolas combine functionality with modern design.</span>
                         </div>
                     </div>
@@ -351,7 +351,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <img src="img/products/gallery-jumbrella-1.jpg" alt="">
+                        <a href="/jumbrella/"><img src="img/products/gallery-jumbrella-1.jpg" alt="Jumbrella"></a>
                     </div>
     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -359,7 +359,7 @@
                             <span class="fw-600 text-base-color">03</span>
                         </div>
                         <div class="col-md-12">
-                            <span class="text-white fw-500 fs-18"><b>Jumbrella:</b> </span><br>
+                            <a href="/jumbrella/" class="text-decoration-underline text-white"><span class="text-white fw-500 fs-18"><b>Jumbrella:</b> </span></a><br>
                             <span class="text-white fw-200 fs-15">Our garden umbrellas provide portable and stylish shade solutions for any outdoor setting. Whether you're hosting a backyard barbecue or enjoying a day at the beach, our umbrellas are designed for easy setup and transport, ensuring you stay cool and comfortable wherever you go.</span>
                         </div>
                     </div>
@@ -367,7 +367,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <img src="img/products/gallery-zipblinds-1.jpg" alt="">
+                        <a href="/skylite/"><img src="img/products/gallery-zipblinds-1.jpg" alt="Zip Blinds"></a>
                     </div>
     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -375,7 +375,7 @@
                             <span class="fw-600 text-base-color">04</span>
                         </div>
                         <div class="col-md-12">
-                            <span class="text-white fw-500 fs-18"><b>Zip Blinds:</b> </span><br>
+                            <a href="/skylite/" class="text-decoration-underline text-white"><span class="text-white fw-500 fs-18"><b>Zip Blinds:</b> </span></a><br>
                             <span class="text-white fw-200 fs-15">Control light and privacy with our zip blinds, which are perfect for patios, balconies, and outdoor dining areas. These blinds are designed to withstand wind and weather while providing a sleek, modern look that complements any outdoor decor.</span>
                         </div>
                     </div>
@@ -383,7 +383,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <img src="img/products/gallery-tension-1.jpg" alt="">
+                        <a href="/skylite/"><img src="img/products/gallery-tension-1.jpg" alt="Skylight Blinds"></a>
                     </div>
     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -391,7 +391,7 @@
                             <span class="fw-600 text-base-color">05</span>
                         </div>
                         <div class="col-md-12">
-                            <span class="text-white fw-500 fs-18"><b>Skylight Blinds:</b> </span><br>
+                            <a href="/skylite/" class="text-decoration-underline text-white"><span class="text-white fw-500 fs-18"><b>Skylight Blinds:</b> </span></a><br>
                             <span class="text-white fw-200 fs-15">Our skylight blinds offer a durable and stylish solution for sun protection. These shades are designed to be both functional and aesthetically pleasing, making them an excellent choice for residential and commercial applications.</span>
                         </div>
                     </div>
@@ -399,7 +399,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <img src="img/products/gallery-parasols.jpg" alt="">
+                        <a href="/parasols/"><img src="img/products/gallery-parasols.jpg" alt="Parasols"></a>
                     </div>
     
                     <div class="col-lg-6 pt-25px pb-25px g-0 position-relative sm-pe-40px sm-pb-0">
@@ -407,7 +407,7 @@
                             <span class="fw-600 text-base-color">06</span>
                         </div>
                         <div class="col-md-12">
-                            <span class="text-white fw-500 fs-18"><b>Parasols:</b> </span><br>
+                            <a href="/parasols/" class="text-decoration-underline text-white"><span class="text-white fw-500 fs-18"><b>Parasols:</b> </span></a><br>
                             <span class="text-white fw-200 fs-15">Our parasol umbrella is a portable, lightweight umbrella designed primarily to provide shade from the sun. Often used in outdoor spaces like gardens, patios, beaches, or outdoor cafes, it features a fabric canopy supported by a central pole. Parasol umbrellas are available in various styles, colors, and sizes, combining practical sun protection with decorative appeal.</span>
                         </div>
                     </div>
