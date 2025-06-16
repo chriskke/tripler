@@ -6,8 +6,12 @@
 # php -- END cPanel-generated handler, do not edit
 
 RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
-RewriteCond %{THE_REQUEST} /([^/]+)\.php [NC]
-RewriteRule ^ /%1 [L,R=301]
+# Redirect external .php requests to extensionless url
+RewriteCond %{THE_REQUEST} \\s/+(.+?)\\.php[\\s?] [NC]
+RewriteRule ^ /%1 [R=301,L]
+
+# Route extensionless url to .php file
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+?)/?$ /$1.php [L]
