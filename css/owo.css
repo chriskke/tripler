@@ -1,0 +1,74 @@
+@import url("fonts/gibson/stylesheet.css");
+
+body, html {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.navbar .navbar-nav .dropdown .dropdown-menu {
+    background-color: var(--dark-gray);
+}
+
+.theme-demos {
+    display: none !important;
+}
+
+.text-nero-grey {
+    color:  #1F1F1F;
+}
+
+.bg-nero.grey {
+    background-color: #212529;
+}
+
+.t-icon {
+    width: 30px;
+    margin-right: 10px;
+}
+
+table.rounded-corners {
+    border-spacing: 0;
+    border-collapse: separate;
+    border-radius: 50px;
+}
+
+.lp3 img{
+    padding: 30px;
+    border-radius: 60px;
+}
+
+.lp3 p {
+    font-size: 18px;
+}
+
+.flexy-img {
+    margin: 30px;
+    display: flex;
+    padding-left: 20%;
+    padding-right: 20%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flexy-img img{
+    max-width: 90px;
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width:500px) {
+    .flexy-img {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+
+@media screen and (max-width:350px) {
+    .flexy-img img{
+        max-width: 50px;
+    }
+}
+
+.img-wcu {
+    margin-top: 10px;
+}

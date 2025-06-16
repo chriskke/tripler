@@ -1,0 +1,113 @@
+/* .uwu-rev-flex {
+    flex-direction: column-reverse;
+} */
+
+@media screen and (min-width: 0px) and (max-width: 319px) {
+    .uwu-rev-flex {
+        flex-direction: column-reverse;
+    }
+}   
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    .uwu-rev-flex {
+        flex-direction: column-reverse;
+    }
+}  
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .uwu-rev-flex {
+        flex-direction: column-reverse;
+    }
+}  
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .uwu-rev-flex {
+        flex-direction: column-reverse;
+    }
+}  
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+    .uwu-rev-flex {
+        flex-direction: column-reverse;
+    }
+}
+@media screen and (min-width: 1201px) and (max-width: 2400px) {
+   
+}
+
+.navbar .navbar-nav .nav-item .nav-link.active, .navbar .navbar-nav .nav-item.active .nav-link, .navbar .navbar-nav .nav-item:hover .nav-link {
+    background-color: #006072;
+    opacity: 1;
+}
+
+.k-product-item {
+    display: flex;
+    padding: 15px;
+    flex-direction: column;
+    background-color: rgba(54, 54, 54, 0.432);
+    margin-top: 30px;
+}
+
+.k-product-item img {
+    transition: ease-in-out .3s all;
+}
+
+.k-product-item img:hover {
+    transform: scale(1.1);
+}
+
+.k-products-details {
+    margin: 20px 0;
+}
+
+.k-products-details h5 {
+    font-size: 23px;
+    text-align: center;
+    line-height: 25px;
+    color: white;
+    margin-bottom: 0;
+}
+
+
+/* table */
+
+.spec-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+    text-align: center;
+    background-color: white;
+  }
+  
+  .spec-table th,
+  .spec-table td {
+    border: 1px solid #2E4857;
+    padding: 10px;
+    font-weight: 500;
+  }
+
+  .spec-table .th-side {
+    color: #006072;
+  }
+
+  .spec-table td {
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  
+  .spec-table thead th {
+    background-color: #096071;
+    color: white;
+    font-weight: 500;
+  }
+  
+  .spec-table .red {
+    color: red;
+  }
+
+  
+  .spec-table tbody td:not(.red) {
+    color: #006072;
+  }
+
+  .slider-text {
+    background-color: #006072db;
+    line-height: 89%;
+    padding: 3%;
+  }
