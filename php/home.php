@@ -9,10 +9,9 @@
                     <div class="row align-items-center h-100">
                         <div class="col-md-10 position-relative text-white">
                             <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
-                                <span class="d-block fs-70 xs-fs-32">Triple R Shade</span>
                                 <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
                             </h1>
-                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Improving outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
+                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
                             <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600 xs-btn-medium" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit</a>
                         </div>
                     </div> 
@@ -25,10 +24,9 @@
                     <div class="row align-items-center h-100">
                         <div class="col-md-10 position-relative text-white"> 
                             <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
-                                <span class="d-block fs-70 xs-fs-32">Triple R Shade</span>
                                 <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
                             </h1>
-                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Improving outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
+                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
                             <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600 xs-btn-medium" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit</a>
                         </div>
                     </div> 
@@ -41,10 +39,9 @@
                     <div class="row align-items-center h-100">
                         <div class="col-md-12 position-relative text-white"> 
                             <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
-                                <span class="d-block fs-70 xs-fs-32">Triple R Shade</span>
                                 <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
                             </h1>
-                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Improving outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
+                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
                             <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600 xs-btn-medium" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit</a>
                         </div>
                     </div>
