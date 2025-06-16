@@ -7,24 +7,45 @@ RewriteEngine On
     Header add "Link" "</> rel=canonical" "expr=%{REQUEST_URI} =~ m#^/.+/$#"
 </IfModule>
 
+# Block any attempts to access .php.php or .html.php URLs
+RewriteCond %{THE_REQUEST} \.(php|html)\.php [NC]
+RewriteRule ^ - [F]
+
 # Redirect URLs with .php extension to URLs with trailing slash
 RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
 RewriteRule ^ /%1/ [R=301,L,NE]
 
-# Redirect URLs without trailing slash to URLs with trailing slash (except for files and the root)
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_URI} !/$
-RewriteCond %{REQUEST_URI} !^/css/
-RewriteCond %{REQUEST_URI} !^/js/
-RewriteCond %{REQUEST_URI} !^/img/
-RewriteCond %{REQUEST_URI} !^/images/
-RewriteCond %{REQUEST_URI} !^/fonts/
-RewriteCond %{REQUEST_URI} !^/revolution/
-RewriteRule ^(.+)$ $1/ [R=301,L]
+# Allow HTML files to be accessed directly without trailing slash
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+)$ $1.html [L]
 
-# Internally map URLs with trailing slash to the corresponding .php file
+# Redirect URLs without trailing slash to URLs with trailing slash (except for files, directories, root, and HTML files)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html !-f
+RewriteCond %{REQUEST_URI} !/$
+RewriteCond %{REQUEST_URI} !\.html$ [NC]
+RewriteCond %{REQUEST_URI} !^/css
+RewriteCond %{REQUEST_URI} !^/js
+RewriteCond %{REQUEST_URI} !^/img
+RewriteCond %{REQUEST_URI} !^/images
+RewriteCond %{REQUEST_URI} !^/fonts
+RewriteCond %{REQUEST_URI} !^/revolution
+RewriteCond %{REQUEST_URI} !^/krttxform
+RewriteCond %{REQUEST_URI} !^/s
+RewriteRule ^(.+)$ /$1/ [R=301,L]
+
+# Serve .html files directly if they exist
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+)/$ $1.html [L]
+
+# Only map URLs with trailing slash to the corresponding .php file if no .html exists
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.+)/$ $1.php [L]
 
 # Don't apply trailing slash rule to actual files (CSS, JS, images, etc.)
