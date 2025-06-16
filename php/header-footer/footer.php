@@ -14,7 +14,7 @@
                 <div class="row align-items-start mb-6 mt-6 xs-mb-9">
                     <!-- start footer column -->
                     <div class="col-lg-3 col-sm-12 last-paragraph-no-margin text-center text-sm-start md-mb-30px">
-                        <center><a href="index" class="footer-logo d-inline-block"><img src="img/logo.png" data-at2x="img/logo.png" alt=""></a></center>
+                        <center><a href="index.php" class="footer-logo d-inline-block"><img src="img/logo.png" data-at2x="img/logo.png" alt=""></a></center>
                     </div>
                     <!-- end footer column -->
                     <!-- start footer column -->
@@ -54,11 +54,11 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5 text-center text-lg-start md-mb-10px"> 
                             <ul class="footer-navbar fs-15 lh-normal">
-                                <li class="nav-item"><a href="index" class="nav-link">Home</a></li>
-                                <li class="nav-item"><a href="about-us" class="nav-link">About Us</a></li>
+                                <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
+                                <li class="nav-item"><a href="about-us.php" class="nav-link">About Us</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Products</a></li>
-                                <li class="nav-item"><a href="gallery" class="nav-link">Gallery</a></li>
-                                <li class="nav-item"><a href="contact" class="nav-link">Contact Us</a></li>  
+                                <li class="nav-item"><a href="#" class="nav-link">Gallery</a></li>
+                                <li class="nav-item"><a href="#" class="nav-link">Contact Us</a></li>  
                             </ul>
                         </div>   
                         <div class="col-lg-7 text-center text-lg-end"> 
