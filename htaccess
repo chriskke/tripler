@@ -1,0 +1,20 @@
+# Use PHP 7.2 (cPanel default handler)
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php72 .php .php7 .phtml
+</IfModule>
+
+# Disable content negotiation, as it can interfere with mod_rewrite
+Options -MultiViews
+
+# Enable mod_rewrite
+RewriteEngine On
+RewriteBase /
+
+# 1. Externally redirect all .php requests to extension-less URLs
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\\ /([^\\ ]+)\\.php
+RewriteRule ^/?(.*)\\.php$ /$1 [L,R=301]
+
+# 2. Internally rewrite extension-less URLs to the corresponding .php file
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^/?(.*)$ /$1.php [L]
