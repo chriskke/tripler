@@ -1,19 +1,19 @@
 <!-- start banner -->
 <section class="p-0 bg-dark-gray">
-    <div class="swiper full-screen ipad-top-space-margin md-h-600px sm-h-500px swiper-number-pagination-style-01 " data-slider-options='{ "slidesPerView": 1, "loop": true, "pagination": { "el": ".swiper-number", "clickable": true }, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "autoplay": { "delay": 10000, "disableOnInteraction": false },  "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "slide" }' data-number-pagination="1">
+    <div class="swiper full-screen ipad-top-space-margin md-h-600px sm-h-500px" data-slider-options='{ "slidesPerView": 1, "loop": true, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "autoplay": { "delay": 10000, "disableOnInteraction": false },  "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "slide" }'>
         <div class="swiper-wrapper">
 
             <!-- start slider item -->
             <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-3.jpg');"> 
                 <div class="container h-100">
                     <div class="row align-items-center h-100">
-                        <div class="col-md-10 position-relative text-white"> 
-                            <!-- <span class="fs-19 text-base-color mb-30px md-mb-20px d-inline-block text-decoration-line-bottom" data-anime='{ "opacity": [0, 1], "duration": 1000, "delay": 200, "easing": "easeOutQuint" }' style="color: gold;">Join Us</span> -->
-                            <div class="slider-text alt-font fs-85 lg-fs-75 xs-fs-60 mb-60px md-mb-45px xs-mb-35px w-80 xl-w-80 md-w-100 ls-minus-1px text-shadow-double-large">
-                                <span data-fancy-text='{ "opacity": [0, 1], "delay": 500, "speed": 50, "string": ["Join us in Shaping the"], "easing": "easeOutQuad" }'></span>
-                                <span class="fw-700 font-style-italic" data-fancy-text='{ "opacity": [0, 1], "speed": 50, "delay": 1200, "string": ["Future of Outdoor Living"], "easing": "easeOutQuad" }'></span>
-                            </div>
-                            <!-- <a href="demo-lawyer-about.html" class="btn btn-extra-large btn-rounded with-rounded btn-white btn-box-shadow fw-600" data-anime='{ "opacity": [0, 1], "delay": 2000, "easing": "easeOutQuad" }'>Explore Work<span class="bg-dark-gray text-white"><i class="feather icon-feather-arrow-right"></i></span></a> -->
+                        <div class="col-md-10 position-relative text-white">
+                            <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
+                                <span class="d-block fs-70 xs-fs-32">Triple R Shade</span>
+                                <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
+                            </h1>
+                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Improving outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
+                            <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600 xs-btn-medium" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit</a>
                         </div>
                     </div> 
                 </div>
@@ -24,12 +24,12 @@
                 <div class="container h-100">
                     <div class="row align-items-center h-100">
                         <div class="col-md-10 position-relative text-white"> 
-                            <!-- <span class="fs-19 text-base-color mb-30px md-mb-20px d-inline-block text-decoration-line-bottom" data-anime='{ "opacity": [0, 1], "duration": 1000, "delay": 200, "easing": "easeOutQuint" }' style="color: gold;">Join Us</span> -->
-                            <div class="slider-text alt-font fs-85 lg-fs-75 xs-fs-60 mb-60px md-mb-45px xs-mb-35px w-80 xl-w-80 md-w-100 ls-minus-1px text-shadow-double-large">
-                                <span data-fancy-text='{ "opacity": [0, 1], "delay": 500, "speed": 50, "string": ["Join us in Shaping the"], "easing": "easeOutQuad" }'></span>
-                                <span class="fw-700 font-style-italic" data-fancy-text='{ "opacity": [0, 1], "speed": 50, "delay": 1200, "string": ["Future of Outdoor Living"], "easing": "easeOutQuad" }'></span>
-                            </div>
-                            <!-- <a href="#" class="btn btn-extra-large btn-rounded with-rounded btn-white btn-box-shadow fw-600" data-anime='{ "opacity": [0, 1], "delay": 2000, "easing": "easeOutQuad" }'>Explore More<span class="bg-dark-gray text-white"><i class="feather icon-feather-arrow-right"></i></span></a> -->
+                            <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
+                                <span class="d-block fs-70 xs-fs-32">Triple R Shade</span>
+                                <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
+                            </h1>
+                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Improving outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
+                            <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600 xs-btn-medium" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit</a>
                         </div>
                     </div> 
                 </div>
@@ -40,26 +40,18 @@
                 <div class="container h-100">
                     <div class="row align-items-center h-100">
                         <div class="col-md-12 position-relative text-white"> 
-
-                            <div class="slider-text alt-font fs-85 lg-fs-75 xs-fs-60 mb-60px md-mb-45px xs-mb-35px w-80 xl-w-80 md-w-100 ls-minus-1px text-shadow-double-large">
-                                <span data-fancy-text='{ "opacity": [0, 1], "delay": 500, "speed": 50, "string": ["Join us in Shaping the"], "easing": "easeOutQuad" }'></span>
-                                <span class="fw-700 font-style-italic" data-fancy-text='{ "opacity": [0, 1], "speed": 50, "delay": 1200, "string": ["Future of Outdoor Living"], "easing": "easeOutQuad" }'></span>
-                            </div>
+                            <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
+                                <span class="d-block fs-70 xs-fs-32">Triple R Shade</span>
+                                <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
+                            </h1>
+                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Improving outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
+                            <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600 xs-btn-medium" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit</a>
                         </div>
                     </div>
                 </div>
             </div>
             <!-- end slider item -->
             
-        </div>
-        <div class="container">
-            <div class="row g-0">
-                <div class="col-12 position-relative">
-                    <!-- start slider pagination --> 
-                    <div class="swiper-pagination left-0 text-start swiper-pagination-clickable swiper-number"></div>  
-                    <!-- end slider pagination --> 
-                </div>
-            </div>
         </div>
         <!-- start slider navigation -->
         <!--<div class="slider-one-slide-prev-1 icon-extra-large text-white swiper-button-prev slider-navigation-style-06 d-none d-sm-inline-block"><i class="line-icon-Arrow-OutLeft"></i></div>
@@ -72,46 +64,32 @@
 <!-- start section -->
 <section class="bg-dark-gray background-position-center-top overflow-hidden" style="background-image: url('images/demo-architecture-dotted-pattern.svg')">
     <div class="container">
-        <div class="row align-items-center mb-5 sm-mb-30px">
-            <div class="col-lg-6 md-mb-50px sm-mb-40px text-center text-sm-start" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <!-- <img src="images/demo-architecture-signechar.png" alt=""> -->
-                <h4 class="text-white fw-600 mt-20px mb-0 w-90 lg-w-100">Elevate Your Outdoor Spaces with Our Premier Shade Solutions.</h4>
-            </div>
-            <div class="col-lg-6 last-paragraph-no-margin">
-                <div class="row align-items-center">
-                    <div class="col-xl-6 col-lg-5 col-sm-4 position-relative atropos transform-3d xs-mb-15px text-center text-sm-start text-lg-center" data-anime='{ "translateY": [-15, 0], "scale": [0.8, 1], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <div class="atropos d-inline-block" data-atropos data-atropos-perspective="500">
-                            <div class="atropos-scale">
-                                <div class="atropos-rotate">
-                                    <div class="atropos-inner text-center">
-                                        <div data-atropos-offset="-5" class="position-relative left-0px right-0px top-50px lg-top-30px md-top-40px">
-                                            <img src="img/30th.png" alt="" style="margin-bottom: 60px;">
-                                        </div>
-                                        <span class="w-210px d-inline-block"></span>
-                                    </div> 
-                                </div>
-                            </div>
-                        </div> 
-                    </div>
-                    <div class="col-xl-6 col-lg-7 col-sm-8 text-center text-sm-start" data-anime='{ "translateX": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <span class="fs-14 text-uppercase ls-1px text-white fw-600 d-block mb-5px">For over 30 years</span>
-                        <p class="w-90 lg-w-100">we have proudly established ourselves as a leading shade supplier in the market</p>
-                    </div>
-                </div> 
+        <div class="row justify-content-center mb-5 sm-mb-30px">
+            <div class="col-lg-10 text-center">
+                <h2 class="text-white fw-600 mb-4">Why Choose Triple R Shade?</h2>
+                <ul class="p-0 m-0 list-unstyled text-start d-inline-block text-white">
+                    <li class="pb-20px d-flex">
+                        <i class="fa-solid fa-check text-base-color me-3 mt-1"></i>
+                        <span><strong>30+ years experience:</strong> delivering high-quality outdoor sunshade systems—including retractable awnings, canopies, parasols, pergolas, skylight blinds, loop awnings, and jumbrellas.</span>
+                    </li>
+                    <li class="pb-20px d-flex">
+                        <i class="fa-solid fa-check text-base-color me-3 mt-1"></i>
+                        <span><strong>Local expertise:</strong> Proven installations in both residential and commercial sunshade projects in Malaysia.</span>
+                    </li>
+                    <li class="pb-20px d-flex">
+                        <i class="fa-solid fa-check text-base-color me-3 mt-1"></i>
+                        <span><strong>Trusted specialists:</strong> dealer training, trade certifications, and customer testimonials.</span>
+                    </li>
+                    <li class="d-flex">
+                        <i class="fa-solid fa-check text-base-color me-3 mt-1"></i>
+                        <span><strong>Premium materials & warranty:</strong> with aluminium frames, anti-UV fabrics, robust motors, and dedicated after-sales support.</span>
+                    </li>
+                </ul>
+                <div class="text-center mt-5">
+                    <img src="img/30th.png" alt="30+ years experience" style="width: 150px;">
+                </div>
             </div>
         </div>
-        
-        <div class="row row-cols-1 row-cols-md-2 mt-10" style="background-color: #212121; padding: 18px 0; border-radius: 8px;">
-            <div class="col-12 text-center text-md-start">
-                <h4 class="fw-600 text-white" style="margin: 8px 0;">Looking to expand <span class="text-decoration-line-bottom d-inline-block" style="color: #096071;">your business</span>?</h4>
-            </div>
-            <div class="col last-paragraph-no-margin text-center text-md-start">
-                <p>Triple R Shade is seeking dealers! As a leading distributor of premium shades, we provide top-quality products that contractors and installers trust. 
-                    Call us now!
-                </p>
-            </div>
-        </div>
-        
     </div> 
 </section>
 <!-- end section -->  
@@ -141,12 +119,8 @@
 <section class="bg-dark-gray background-position-center-top overflow-hidden" style="background-image: url('images/demo-architecture-dotted-pattern.svg')">
     <div class="container">
         <div class="row align-items-end mb-6">
-            <div class="col-md-6 sm-mb-20px" data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 100, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Triple R Shade Core Services</span>
-                <h4 class="text-white fw-600 mb-0">Create functional and stylish outdoor services for you.</h4>
-            </div>
-            <div class="col-md-5 offset-md-1 last-paragraph-no-margin" data-anime='{ "translateX": [-50, 0], "opacity": [0,1], "duration": 1200, "delay": 100, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                <p class="w-80 xl-w-85 lg-w-100">At the heart of our business lies a diverse portfolio of shade products that cater to various needs and preferences. Our main offerings include:</p>
+            <div class="col-12 text-center" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 100, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                <h2 class="text-white fw-600 mb-0">Our Triple R Shade Services</h2>
             </div>
         </div>
         <div class="row align-items-center mb-9">
@@ -159,16 +133,16 @@
                             <div class="swiper-slide"> 
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/retractable-awning.jpg" alt="" />
+                                        <img src="img/index/services/retractable-awning.jpg" alt="Retractable Awnings" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
-                                        <a href="#" class="banners-icon text-white icon-hover-base-color position-absolute top-60px left-60px lg-top-30px lg-left-30px">
+                                        <a href="/retractable-awning/" class="banners-icon text-white icon-hover-base-color position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
                                         </a>
                                     </div>
                                     <div class="interactive-banners-content p-60px lg-p-30px"> 
                                         <div class="h-100 w-100 last-paragraph-no-margin"> 
-                                            <a href="#" class="fs-22 d-block text-white mb-10px fw-500">Retractacble Awning</a>
-                                            <!-- <p class="interactive-banners-content-text w-95 lg-w-100">Lorem ipsum consectetur elit do eiusmod tempor incididunt.</p> -->
+                                            <a href="/retractable-awning/" class="fs-22 d-block text-white mb-10px fw-500">Retractable Awnings</a>
+                                            <p class="interactive-banners-content-text w-95 lg-w-100">Create functional outdoor living spaces—balconies, patios, cafés—that open and retract with ease, built to Malaysian weather.</p>
                                         </div> 
                                     </div>
                                     <div class="box-overlay bg-gradient-dark-transparent"></div>
@@ -179,16 +153,16 @@
                             <div class="swiper-slide">
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/skylight-blinds.jpg" alt="" />
+                                        <img src="img/index/services/skylight-blinds.jpg" alt="Skylight Blinds & Zip Blinds" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
-                                        <a href="#" class="banners-icon text-white icon-hover-base-color position-absolute top-60px left-60px lg-top-30px lg-left-30px">
+                                        <a href="/skylite/" class="banners-icon text-white icon-hover-base-color position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
                                         </a>
                                     </div>
                                     <div class="interactive-banners-content p-60px lg-p-30px"> 
                                         <div class="h-100 w-100 last-paragraph-no-margin"> 
-                                            <a href="#" class="fs-22 d-block text-white mb-10px fw-500">Skylight Blinds</a>
-                                            <!-- <p class="interactive-banners-content-text w-95 lg-w-100">Lorem ipsum consectetur elit do eiusmod tempor incididunt.</p> -->
+                                            <a href="/skylite/" class="fs-22 d-block text-white mb-10px fw-500">Skylight Blinds & Zip Blinds</a>
+                                            <p class="interactive-banners-content-text w-95 lg-w-100">Perfect for skylights, patio enclosures and glass roofs—UV-safe, wind-resistant, sleek.</p>
                                         </div> 
                                     </div>
                                     <div class="box-overlay bg-gradient-dark-transparent"></div>
@@ -199,16 +173,16 @@
                             <div class="swiper-slide">
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/louvers-pegola.jpg" alt="" />
+                                        <img src="img/index/services/louvers-pegola.jpg" alt="Motorised Louvers Pergola" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
-                                        <a href="#" class="banners-icon icon-hover-base-color text-white position-absolute top-60px left-60px lg-top-30px lg-left-30px">
+                                        <a href="/pergola/" class="banners-icon icon-hover-base-color text-white position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
                                         </a>
                                     </div>
                                     <div class="interactive-banners-content p-60px lg-p-30px"> 
                                         <div class="h-100 w-100 last-paragraph-no-margin"> 
-                                            <a href="#" class="fs-22 d-block text-white mb-10px fw-500">Louvers Pergola</a>
-                                            <!-- <p class="interactive-banners-content-text w-95 lg-w-100">Lorem ipsum consectetur elit do eiusmod tempor incididunt.</p> -->
+                                            <a href="/pergola/" class="fs-22 d-block text-white mb-10px fw-500">Motorised Louvers Pergola</a>
+                                            <p class="interactive-banners-content-text w-95 lg-w-100">Aluminium louvers, daylight control, and rainproof sealing—all operable by remote. Styled for rooftop terraces and commercial cafés in KL & Melaka.</p>
                                         </div> 
                                     </div>
                                     <div class="box-overlay bg-gradient-dark-transparent"></div>
@@ -219,16 +193,16 @@
                             <div class="swiper-slide">
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/loop-awning.jpg" alt="" />
+                                        <img src="img/index/services/loop-awning.jpg" alt="Loop Awnings & Jumbrella" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
-                                        <a href="#" class="banners-icon icon-hover-base-color text-white position-absolute top-60px left-60px lg-top-30px lg-left-30px">
+                                        <a href="/loop/" class="banners-icon icon-hover-base-color text-white position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
                                         </a>
                                     </div>
                                     <div class="interactive-banners-content p-60px lg-p-30px"> 
                                         <div class="h-100 w-100 last-paragraph-no-margin"> 
-                                            <a href="#" class="fs-22 d-block text-white mb-10px fw-500">Loop Awning</a>
-                                            <!-- <p class="interactive-banners-content-text w-95 lg-w-100">Lorem ipsum consectetur elit do eiusmod tempor incididunt.</p> -->
+                                            <a href="/loop/" class="fs-22 d-block text-white mb-10px fw-500">Loop Awnings & Jumbrella</a>
+                                            <p class="interactive-banners-content-text w-95 lg-w-100">Traditional awnings and oversized garden umbrellas, ideal for cafés or poolside in Ipoh.</p>
                                         </div> 
                                     </div>
                                     <div class="box-overlay bg-gradient-dark-transparent"></div>
@@ -239,16 +213,16 @@
                             <div class="swiper-slide"> 
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/jumbrella.jpg" alt="" />
+                                        <img src="img/index/services/jumbrella.jpg" alt="Parasols" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
-                                        <a href="#" class="banners-icon text-white icon-hover-base-color position-absolute top-60px left-60px lg-top-30px lg-left-30px">
+                                        <a href="/parasols/" class="banners-icon text-white icon-hover-base-color position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
                                         </a>
                                     </div>
                                     <div class="interactive-banners-content p-60px lg-p-30px"> 
                                         <div class="h-100 w-100 last-paragraph-no-margin"> 
-                                            <a href="#" class="fs-22 d-block text-white mb-10px fw-500">Jumbrella</a>
-                                            <!-- <p class="interactive-banners-content-text w-95 lg-w-100">Lorem ipsum consectetur elit do eiusmod tempor incididunt.</p> -->
+                                            <a href="/parasols/" class="fs-22 d-block text-white mb-10px fw-500">Parasols</a>
+                                            <p class="interactive-banners-content-text w-95 lg-w-100">Lightweight, durable parasols in multiple styles and fabrics—suited for outdoor patios and event venues.</p>
                                         </div> 
                                     </div>
                                     <div class="box-overlay bg-gradient-dark-transparent"></div>
@@ -386,7 +360,7 @@
                         </div>
                         <div class="col-md-12">
                             <span class="text-white fw-500 fs-18"><b>Jumbrella:</b> </span><br>
-                            <span class="text-white fw-200 fs-15">Our garden umbrellas provide portable and stylish shade solutions for any outdoor setting. Whether you’re hosting a backyard barbecue or enjoying a day at the beach, our umbrellas are designed for easy setup and transport, ensuring you stay cool and comfortable wherever you go.</span>
+                            <span class="text-white fw-200 fs-15">Our garden umbrellas provide portable and stylish shade solutions for any outdoor setting. Whether you're hosting a backyard barbecue or enjoying a day at the beach, our umbrellas are designed for easy setup and transport, ensuring you stay cool and comfortable wherever you go.</span>
                         </div>
                     </div>
                 </div>
@@ -629,6 +603,71 @@
         </div>
         <div class="row row-cols-2 row-cols-md-4 counter-style-04"></div>
         
+    </div>
+</section>
+<!-- end section -->
+
+<!-- start section -->
+<section class="bg-dark-gray background-position-center-top" style="background-image: url('images/demo-architecture-dotted-pattern.svg');">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 text-center mb-5">
+                <h2 class="text-white fw-600">Compare Triple R to Other Outdoor Sunshade Providers</h2>
+                <p class="text-white">We handle everything—consultation, installation, servicing—no middleman needed.</p>
+            </div>
+            <div class="col-lg-10">
+                <table class="table table-bordered table-dark" style="--bs-table-border-color: #444;">
+                    <thead>
+                        <tr>
+                            <th scope="col" class="w-1/3">Feature</th>
+                            <th scope="col" class="w-1/3 text-center">Triple R Shade</th>
+                            <th scope="col" class="w-1/3 text-center">Generic Awning Supplier</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>30-year track record</td>
+                            <td class="text-center"><i class="fa-solid fa-check text-success"></i></td>
+                            <td class="text-center"><i class="fa-solid fa-times text-danger"></i></td>
+                        </tr>
+                        <tr>
+                            <td>Local installation teams</td>
+                            <td class="text-center"><i class="fa-solid fa-check text-success"></i></td>
+                            <td class="text-center"><i class="fa-solid fa-times text-danger"></i></td>
+                        </tr>
+                        <tr>
+                            <td>Authorised dealer support</td>
+                            <td class="text-center"><i class="fa-solid fa-check text-success"></i></td>
+                            <td class="text-center"><i class="fa-solid fa-times text-danger"></i></td>
+                        </tr>
+                        <tr>
+                            <td>Manufacturer-backed warranty</td>
+                            <td class="text-center"><i class="fa-solid fa-check text-success"></i></td>
+                            <td class="text-center"><i class="fa-solid fa-times text-danger"></i></td>
+                        </tr>
+                        <tr>
+                            <td>Full service (sales to maintenance)</td>
+                            <td class="text-center"><i class="fa-solid fa-check text-success"></i></td>
+                            <td class="text-center"><i class="fa-solid fa-times text-danger"></i></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end section -->
+
+<!-- start section -->
+<section class="bg-dark-gray background-position-center-top" style="background-image: url('images/demo-architecture-dotted-pattern.svg'); padding: 80px 0;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <h2 class="text-white fw-600 mb-4">Book Your Free Site Visit Today</h2>
+                <p class="text-white fs-20 mb-4">Our team is excited to explore the right outdoor sunshade, awning, or canopy for your space, for free! Click the WhatsApp button below to schedule your free on-site consultation with our team.</p>
+                <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-extra-large btn-rounded with-rounded fw-600" style="background-color: #25D366; border-color: #25D366; color: white;">WhatsApp Us Now</a>
+            </div>
+        </div>
     </div>
 </section>
 <!-- end section -->

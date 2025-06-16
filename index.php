@@ -5,8 +5,8 @@
 $seo_data = [
     'home' => [
         'canonical' => 'https://tripler.com.my/',
-        'title' => 'Triple R Shade - Premier Retractable Awnings & Pergolas in Malaysia',
-        'description' => 'Enhance your outdoor living with high-quality retractable awnings, pergolas, shades, and umbrellas from Triple R Shade. Over 30 years of excellence.',
+        'title' => 'Outdoor Sunshade, Canopy & Awning Installation | Free Site Visit',
+        'description' => 'Outdoor sunshade, canopy & awning installation in Malaysia. Serving KL, Selangor, Ipoh & Melaka. Book your free site visit today!',
         'keywords' => 'Triple R Shade, retractable awning Malaysia, pergola Malaysia, outdoor shades, garden umbrella, shade solutions',
         'image' => 'img/logo.png'
     ],
