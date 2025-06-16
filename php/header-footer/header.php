@@ -6,34 +6,39 @@
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-N27NQXZN');</script>
         <!-- End Google Tag Manager -->
-        <!-- Google tag (gtag.js)
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PWMH97H1WF"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            
-            gtag('config', 'G-PWMH97H1WF');
-        </script> -->
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11506566355"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            
-            gtag('config', 'AW-11506566355');
-        </script>
-        <title>Triple R Shade Sdn. Bhd.</title>
+
+        <?php 
+        // Default SEO values (for homepage)
+        $page_title = "Outdoor Sunshade, Canopy & Awning Installation | Free Site Visit";
+        $meta_description = "Outdoor sunshade, canopy & awning installation in Malaysia. Serving KL, Selangor, Ipoh & Melaka. Book your free site visit today!";
+        $canonical_url = "https://tripler.com.my/";
+        
+        // Override SEO values if page-specific values are set
+        if(isset($seo_title)) $page_title = $seo_title;
+        if(isset($seo_description)) $meta_description = $seo_description;
+        if(isset($seo_canonical)) $canonical_url = $seo_canonical;
+        ?>
+        <title><?php echo $page_title; ?></title>
         <meta name="google-site-verification" content="tQCnHzjfT8ZUXcgioK9GbJCcLA7HpXY-SIQet6JV5LA" />
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="author" content="uwu">
+        <meta name="author" content="Triple R Shade">
         <meta name="viewport" content="width=device-width,initial-scale=1.0" />
         <base href="/" />
-        <meta name="description" content="For over 30 years, we have proudly established ourselves as a leading shade supplier in the market, providing innovative and high-quality products that enhance outdoor living.">
-        <meta name="keywords" content="Triple R, Shades, Awning, skylight, Louvers, Garden Umbrella, Awning Parts, Accessories">
-        <link rel="canonical" href="https://tripler.com.my/index.php	" />
+        <meta name="description" content="<?php echo $meta_description; ?>">
+        <meta name="keywords" content="Triple R, Shades, Awning, Skylight, Louvers, Garden Umbrella, Outdoor Sunshade, Canopy, Malaysia">
+        <link rel="canonical" href="<?php echo $canonical_url; ?>" />
+        <!-- Open Graph Meta Tags -->
+        <meta property="og:title" content="<?php echo $page_title; ?>">
+        <meta property="og:description" content="<?php echo $meta_description; ?>">
+        <meta property="og:url" content="<?php echo $canonical_url; ?>">
+        <meta property="og:type" content="website">
+        <meta property="og:image" content="/img/logo.png">
+        <!-- Twitter Card Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="<?php echo $page_title; ?>">
+        <meta name="twitter:description" content="<?php echo $meta_description; ?>">
+        <meta name="twitter:image" content="/img/logo.png">
         <!-- favicon icon -->
         <link rel="shortcut icon" href="img/fav-tripler.png">
         <link rel="apple-touch-icon" href="img/fav-tripler.png">
