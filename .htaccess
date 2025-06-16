@@ -1,14 +1,19 @@
 # Enable URL rewriting
 RewriteEngine On
 
-# Redirect URLs with .php extension to URLs without extension
+# Redirect URLs with .php extension to URLs with trailing slash
 RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
-RewriteRule ^ /%1 [R=301,L,NE]
+RewriteRule ^ /%1/ [R=301,L,NE]
 
-# Internally map URLs without extension to the corresponding .php file
+# Internally map URLs with trailing slash to the corresponding .php file
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^(.+?)/?$ $1.php [L]
+RewriteRule ^(.+?)/$ $1.php [L]
+
+# If accessing a URL without trailing slash, add it (except for existing files/directories)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+[^/])$ /$1/ [R=301,L]
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the "ea-php72" package as the default "PHP" programming language.
