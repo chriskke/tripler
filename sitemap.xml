@@ -4,8 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>https://tripler.com.my/</loc>
@@ -13,60 +11,64 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/index.php</loc>
+  <loc>https://tripler.com.my/about-us/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/about-us.php</loc>
+  <loc>https://tripler.com.my/retractable-awning/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/retractable-awning.php</loc>
+  <loc>https://tripler.com.my/skylite/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/skylite.php</loc>
+  <loc>https://tripler.com.my/pergola/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/pergola.php</loc>
+  <loc>https://tripler.com.my/loop/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/loop.php</loc>
+  <loc>https://tripler.com.my/jumbrella/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/jumbrella.php</loc>
+  <loc>https://tripler.com.my/parasols/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/accessories.php</loc>
+  <loc>https://tripler.com.my/gallery/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/dealer.php</loc>
+  <loc>https://tripler.com.my/contact/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/gallery.php</loc>
+  <loc>https://tripler.com.my/dealer/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tripler.com.my/contact.php</loc>
+  <loc>https://tripler.com.my/accessories/</loc>
   <lastmod>2025-01-09T07:13:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+<url>
+  <loc>https://tripler.com.my/parts/</loc>
+  <lastmod>2025-01-09T07:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
