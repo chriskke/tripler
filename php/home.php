@@ -20,8 +20,7 @@
                             <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
                         </h1>
                         <p class="w-90 lg-w-100 fs-20 xs-fs-14" style="background-color: rgba(0, 0, 0, 0.6); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
-                        <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-small btn-rounded with-rounded fw-600 home-hero-button" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 15px;">Book Free Visit</a>
-                        <p class="text-white xs-fs-14" style="margin-top: 10px;">whatsapp us now</p>
+                        <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 15px;">Book Free Visit</a>
                     </div>
                 </div>
             </div>
