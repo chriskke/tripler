@@ -5,7 +5,7 @@
 $seo_data = [
     'home' => [
         'canonical' => 'https://tripler.com.my/',
-        'title' => 'Outdoor Sunshade, Canopy & Awning Installation | Free Site Visit',
+        'title' => 'Free Visit - Outdoor Sunshade, Canopy & Awning Installation',
         'description' => 'Outdoor sunshade, canopy & awning installation in Malaysia. Serving KL, Selangor, Ipoh & Melaka. Book your free site visit today!',
         'keywords' => 'Triple R Shade, retractable awning Malaysia, pergola Malaysia, outdoor shades, garden umbrella, shade solutions',
         'image' => 'img/logo.png'
