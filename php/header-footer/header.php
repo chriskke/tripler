@@ -119,7 +119,7 @@ $keywords_array = array_map('trim', explode(',', $current_page_meta['keywords'] 
                                 <a href="#" class="nav-link">Products</a>
                                 <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                    <li><a href="/retractable-awning/">Retractacble Awning</a></li>
+                                    <li><a href="/retractable-awning/">Retractable Awning</a></li>
                                     <li><a href="/skylite/">Skylight Blinds</a></li>
                                     <li><a href="/pergola/">Louvers Pergola</a></li>
                                     <li><a href="/loop/">Loop Awning</a></li>
@@ -135,73 +135,5 @@ $keywords_array = array_map('trim', explode(',', $current_page_meta['keywords'] 
             </div>
         </nav>
         <!-- end navigation -->
-        <!-- start hamburger menu -->
-        <div class="push-menu hamburger-nav hamburger-menu-simple header-dark bg-dark-gray background-position-center-top" style="background-image: url('images/vertical-line-bg-small.svg');">
-            <span class="close-menu text-dark-gray text-dark-gray-hover bg-white"><i class="fa-solid fa-xmark"></i></span>
-            <div class="container h-100">
-                <div class="row align-items-center justify-content-center h-100">
-                    <div class="col-lg-8 col-md-6 order-2 order-md-1 d-none d-md-inline-block">
-                        <a class="hamburger-logo d-inline-block" href="demo-architecture.html">
-                            <img src="images/demo-architecture-footer-logo.png" data-at2x="images/demo-architecture-footer-logo@2x.png" class="w-auto" alt="">
-                        </a>
-                        <div class="row mt-22 md-mt-30px sm-mt-25px align-items-start">
-                            <!-- start column -->
-                            <div class="col-lg-4 last-paragraph-no-margin md-mb-30px sm-mb-20px menu-address"> 
-                                <span class="text-base-color fs-14 fw-600 ls-2px text-uppercase mb-5px d-block">Let's meet</span>
-                                <p class="w-90 md-w-80">27 Eden walk eden centre, Orchard, Paris, France</p>
-                            </div>
-                            <!-- end column -->
-                            <!-- start column -->
-                            <div class="col-lg-4 last-paragraph-no-margin md-mb-30px sm-mb-20px menu-address">
-                                <span class="text-base-color fs-14 fw-600 ls-2px text-uppercase mb-5px d-block">Let's talk</span>
-                                <a href="tel:1800222002" class="text-white-hover">1-800-222-002</a><br>
-                                <a href="/cdn-cgi/l/email-protection#1c75727a735c6573696e7873717d7572327f7371" class="text-decoration-line-bottom text-white"><span class="__cf_email__" data-cfemail="20494e464f60594f5552444f4d41494e0e434f4d">[email&#160;protected]</span></a> 
-                            </div>
-                            <!-- end column -->
-                            <!-- start column -->
-                            <div class="col-lg-4 last-paragraph-no-margin elements-social">
-                                <span class="text-base-color fs-14 fw-600 ls-2px text-uppercase mb-5px d-block">Connect with us</span>
-                                <div class="social-icon-style-02 mt-15px">
-                                    <ul class="medium-icon light">
-                                        <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                        <li><a class="dribbble" href="http://www.dribbble.com" target="_blank"><i class="fa-brands fa-dribbble"></i></a></li> 
-                                        <li><a class="twitter" href="https://www.twitter.com" target="_blank"><i class="fa-brands fa-twitter"></i></a></li> 
-                                        <li><a class="instagram" href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a></li> 
-                                    </ul>
-                                </div>
-                            </div>
-                            <!-- end column -->
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-5 offset-md-1 order-1 order-md-2 text-center text-md-start">
-                        <div class="hamburger-menu menu-list-wrapper" data-scroll-options='{ "theme": "light" }'> 
-                            <ul class="menu-item-list alt-font ls-minus-05px p-0"> 
-                                <li class="menu-item"><a href="demo-architecture.html" class="nav-link">Home</a></li>
-                                <li class="menu-item"><a href="demo-architecture-about.html" class="nav-link">About</a></li>
-                                <li class="menu-item dropdown dropdown-with-icon-style02">
-                                    <a href="#" class="nav-link">Products</a>
-                                    <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
-                                    <ul class="dropdown-menu"> 
-                                        <li><a href="portfolio-classic-two-column.html">Classic 2 Column</a></li>
-                                        <li><a href="portfolio-classic-three-column.html">Classic 3 Column</a></li>
-                                        <li><a href="portfolio-classic-four-column.html">Classic 4 Column</a></li>
-                                        <li><a href="portfolio-classic-masonry.html">Classic Masonry</a></li>
-                                        <li><a href="portfolio-classic-metro.html">Classic Metro</a></li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item"><a href="demo-architecture-projects.html" class="nav-link">Gallery</a></li>
-                                <li class="menu-item"><a href="demo-architecture-contact.html" class="nav-link">Contact</a></li> 
-                            </ul> 
-                        </div> 
-                    </div>
-                    <div class="col-12 menu-text border-top border-color-transparent-white-light d-none d-md-inline-block text-center pt-3 pb-3 order-3"> 
-                        <h6 class="fw-400 d-inline-block align-middle mb-0">Let's build something <span class="text-white">great together</span></h6>
-                        <div class="separator-line-1px d-inline-block align-middle ms-20px me-20px mt-5px w-70px bg-base-color"></div>
-                        <a href="/cdn-cgi/l/email-protection#640c0108080b2407160502100b4a070b09" class="text-base-color fs-26 fw-500 d-inline-block align-middle"><span class="__cf_email__" data-cfemail="1a727f7676755a79687b7c6e7534797577">[email&#160;protected]</span></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- end hamburger menu -->
     </header>
     <!-- end header -->

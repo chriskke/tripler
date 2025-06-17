@@ -1,58 +1,34 @@
 <!-- start banner -->
 <section class="p-0 bg-dark-gray">
-    <div class="swiper full-screen ipad-top-space-margin md-h-600px sm-h-500px" data-slider-options='{ "slidesPerView": 1, "loop": true, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "autoplay": { "delay": 10000, "disableOnInteraction": false },  "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "slide" }'>
+    <div class="swiper home-hero-slider" data-slider-options='{ "slidesPerView": 1, "loop": true, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "autoplay": { "delay": 2000, "disableOnInteraction": false },  "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "fade" }'>
         <div class="swiper-wrapper">
-
             <!-- start slider item -->
-            <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-3.jpg');"> 
-                <div class="container h-100">
-                    <div class="row align-items-center h-100">
-                        <div class="col-md-10 position-relative text-white mobile-hero-padding">
-                            <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
-                                <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
-                            </h1>
-                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
-                            <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600 xs-btn-medium" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit</a>
-                        </div>
-                    </div> 
-                </div>
-            </div>
+            <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-3.jpg');"></div>
             <!-- end slider item -->
             <!-- start slider item -->
-            <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-1.jpg');"> 
-                <div class="container h-100">
-                    <div class="row align-items-center h-100">
-                        <div class="col-md-10 position-relative text-white mobile-hero-padding"> 
-                            <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
-                                <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
-                            </h1>
-                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
-                            <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600 xs-btn-medium" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit</a>
-                        </div>
-                    </div> 
-                </div>
-            </div>
+            <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-1.jpg');"></div>
             <!-- end slider item -->
             <!-- start slider item -->
-            <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-2.jpg');"> 
-                <div class="container h-100">
-                    <div class="row align-items-center h-100">
-                        <div class="col-md-12 position-relative text-white mobile-hero-padding"> 
-                            <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-40 mb-60px md-mb-45px xs-mb-35px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
-                                <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
-                            </h1>
-                            <p class="w-90 lg-w-100 fs-20 xs-fs-16" style="background-color: rgba(0, 0, 0, 0.5); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
-                            <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600 xs-btn-medium" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit</a>
-                        </div>
+            <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-2.jpg');"></div>
+            <!-- end slider item -->
+        </div>
+        <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center" style="z-index: 1">
+            <div class="container h-100">
+                <div class="row h-100">
+                    <div class="col-md-10 position-relative text-white">
+                        <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-32 mb-60px md-mb-45px xs-mb-25px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
+                            <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
+                        </h1>
+                        <p class="w-90 lg-w-100 fs-20 xs-fs-14" style="background-color: rgba(0, 0, 0, 0.6); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
+                        <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-small btn-rounded with-rounded fw-600 home-hero-button" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 15px;">Book Free Visit</a>
+                        <p class="text-white xs-fs-14" style="margin-top: 10px;">whatsapp us now</p>
                     </div>
                 </div>
             </div>
-            <!-- end slider item -->
-            
         </div>
         <!-- start slider navigation -->
-        <!--<div class="slider-one-slide-prev-1 icon-extra-large text-white swiper-button-prev slider-navigation-style-06 d-none d-sm-inline-block"><i class="line-icon-Arrow-OutLeft"></i></div>
-        <div class="slider-one-slide-next-1 icon-extra-large text-white swiper-button-next slider-navigation-style-06 d-none d-sm-inline-block"><i class="line-icon-Arrow-OutRight"></i></div>-->
+        <div class="swiper-button-prev slider-one-slide-prev-1 swiper-button-white"><i class="feather icon-feather-arrow-left"></i></div>
+        <div class="swiper-button-next slider-one-slide-next-1 swiper-button-white"><i class="feather icon-feather-arrow-right"></i></div>
         <!-- end slider navigation -->
     </div>
 </section>
