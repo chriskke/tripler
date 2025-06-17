@@ -174,3 +174,14 @@
         top: 80px;
     }
 }
+
+.interactive-banner-style-06 .interactive-banners-content .interactive-banners-content-text {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.3s ease;
+}
+
+.interactive-banner-style-06:hover .interactive-banners-content .interactive-banners-content-text {
+    opacity: 1;
+    transform: translateY(0);
+}

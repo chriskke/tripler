@@ -20,7 +20,7 @@
                             <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
                         </h1>
                         <p class="w-90 lg-w-100 fs-20 xs-fs-14" style="background-color: rgba(0, 0, 0, 0.6); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
-                        <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-large btn-rounded with-rounded fw-600" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 15px;">Book Free Visit</a>
+                        <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" rel="noopener noreferrer" class="btn btn-large btn-rounded with-rounded fw-600" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 15px;">Book Free Visit</a>
                     </div>
                 </div>
             </div>
@@ -412,7 +412,7 @@
                                             <span class="text-dark-gray fs-15 text-uppercase ls-1px fw-700">Full Cassette</span>
                                             <h2 class="alt-font text-dark-gray fw-600 mb-20px ls-minus-2px">Retractable Awning</h2>
                                             <!-- <p class="w-90 mb-10px">Lorem ipsum is simply dummy text printing and lorem ipsum been.</p> -->
-                                            <a href="gallery.php" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
+                                            <a href="gallery/" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                                                 <span>
                                                     <span class="btn-text">Explore project</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right fs-14"></i></span>
@@ -435,7 +435,7 @@
                                             <span class="text-dark-gray fs-15 text-uppercase ls-1px fw-700">Garden Umbrella</span>
                                             <h2 class="alt-font text-dark-gray fw-600 mb-20px ls-minus-2px">Parasol</h2>
                                             <!-- <p class="w-90 mb-10px">Lorem ipsum is simply dummy text printing and lorem ipsum been.</p> -->
-                                            <a href="gallery.php" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
+                                            <a href="gallery/" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                                                 <span>
                                                     <span class="btn-text">Explore project</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right fs-14"></i></span>
@@ -458,7 +458,7 @@
                                             <span class="text-dark-gray fs-15 text-uppercase ls-1px fw-700">Loop</span>
                                             <h2 class="alt-font text-dark-gray fw-600 mb-20px ls-minus-2px">Awning</h2>
                                             <!-- <p class="w-90 mb-10px">Lorem ipsum is simply dummy text printing and lorem ipsum been.</p> -->
-                                            <a href="gallery.php" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
+                                            <a href="gallery/" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                                                 <span>
                                                     <span class="btn-text">Explore project</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right fs-14"></i></span>
@@ -481,7 +481,7 @@
                                             <span class="text-dark-gray fs-15 text-uppercase ls-1px fw-700">Louvers</span>
                                             <h2 class="alt-font text-dark-gray fw-600 mb-20px ls-minus-2px">Pergola</h2>
                                             <!-- <p class="w-90 mb-10px">Lorem ipsum is simply dummy text printing and lorem ipsum been.</p> -->
-                                            <a href="gallery.php" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
+                                            <a href="gallery/" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                                                 <span>
                                                     <span class="btn-text">Explore project</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right fs-14"></i></span>
@@ -504,7 +504,7 @@
                                             <span class="text-dark-gray fs-15 text-uppercase ls-1px fw-700">Retractable</span>
                                             <h2 class="alt-font text-dark-gray fw-600 mb-20px ls-minus-2px">Awning</h2>
                                             <!-- <p class="w-90 mb-10px">Lorem ipsum is simply dummy text printing and lorem ipsum been.</p> -->
-                                            <a href="gallery.php" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
+                                            <a href="gallery/" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                                                 <span>
                                                     <span class="btn-text">Explore project</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right fs-14"></i></span>
@@ -527,7 +527,7 @@
                                             <span class="text-dark-gray fs-15 text-uppercase ls-1px fw-700">Skylight </span>
                                             <h2 class="alt-font text-dark-gray fw-600 mb-20px ls-minus-2px">Awning</h2>
                                             <!-- <p class="w-90 mb-10px">Lorem ipsum is simply dummy text printing and lorem ipsum been.</p> -->
-                                            <a href="gallery.php" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
+                                            <a href="gallery/" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                                                 <span>
                                                     <span class="btn-text">Explore project</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right fs-14"></i></span>
@@ -551,7 +551,7 @@
                                             <span class="text-dark-gray fs-15 text-uppercase ls-1px fw-700">Zip</span>
                                             <h2 class="alt-font text-dark-gray fw-600 mb-20px ls-minus-2px">Blind</h2>
                                             <!-- <p class="w-90 mb-10px">Lorem ipsum is simply dummy text printing and lorem ipsum been.</p> -->
-                                            <a href="gallery.php" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
+                                            <a href="gallery/" class="btn btn-link btn-hover-animation-switch btn-large text-dark-gray fw-800">
                                                 <span>
                                                     <span class="btn-text">Explore project</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right fs-14"></i></span>

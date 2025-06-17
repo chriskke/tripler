@@ -217,7 +217,7 @@ footer .elements-social li {
 }
 @media (max-width: 991px) {
     .interactive-banner-style-06 .interactive-banners-content {
-        transform: translateY(calc(100% - 100px));
+        transform: translateY(calc(10% - 10px));
     }
     .md-right-0 {
         right: 0;
@@ -235,7 +235,7 @@ footer .elements-social li {
         left: 0;
     }
     .interactive-banner-style-06 .interactive-banners-content {
-        transform: translateY(calc(100% - 110px));
+        transform: translateY(calc(10% - 10px));
     }
     .hamburger-menu-simple .menu-item-list .nav-link {
         font-size: 38px;
