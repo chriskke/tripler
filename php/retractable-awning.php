@@ -94,7 +94,7 @@
                                     </div>
                                     <div class="feature-box-content last-paragraph-no-margin pt-30 md-pt-24 sm-pt-30 xs-pt-55px">
                                         <span class="text-base-color d-inline-block fs-24 fw-600 mb-15px position-relative">Durability Meets Style</span>
-                                        <p>Experience unparalleled durability and strength with our upgraded chained arm, crafted from high-quality stainless steel. Designed to withstand the elements, this robust component ensures your awning remains functional and reliable through all seasons. The stainless steel construction not only enhances the arm’s longevity but also provides a sleek, modern look that complements any outdoor setting. Invest in quality and enjoy peace of mind with an awning that stands the test of time.</p>
+                                        <p>Experience unparalleled durability and strength with our upgraded chained arm, crafted from high-quality stainless steel. Designed to withstand the elements, this robust component ensures your awning remains functional and reliable through all seasons. The stainless steel construction not only enhances the arm's longevity but also provides a sleek, modern look that complements any outdoor setting. Invest in quality and enjoy peace of mind with an awning that stands the test of time.</p>
                                     </div>
                                 </div>
                             </div>
@@ -139,6 +139,135 @@
                             </div> -->
                             <!-- end features box item -->
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end section -->
+        <section class="bg-dark-gray text-white py-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 text-center">
+                        <h2 class="fw-bold mb-3">Why Choose Our Retractable Awnings?</h2>
+                        <div class="mx-auto" style="max-width: 500px;">
+                            <ul class="mb-4 list-unstyled text-start">
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i>Custom fit & operation – spans up to 30 m, manual or motorised with wind/rain sensors.</li>
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i>Premium fabrics with anti-UV coating, fade-resistant PVC.</li>
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i>Expert installation by our certified crew—trained to IEC standards—ensuring long-term durability.</li>
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i>Local warranty and full after-service across your cities.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="bg-nero-grey text-white py-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 text-center">
+                        <h2 class="fw-bold mb-3">Retractable Awning Use Cases & Benefits</h2>
+                        <div class="mx-auto" style="max-width: 500px;">
+                            <ul class="mb-4 list-unstyled text-start">
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i><b>Home terraces & house awnings:</b> Keeps interiors cool, cuts energy use, and enhances your living space with a modern <strong>awning for balcony</strong> or <strong>car porch awning</strong>.</li>
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i><b>Cafés, restaurants & commercial spaces:</b> Offers adaptable alfresco seating with stylish <strong>awning canopy</strong> and <strong>canopy awning</strong> options.</li>
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i><b>Balconies in high‑rise KL:</b> Easy-to-use remote control for sun/rain, perfect for <strong>awnings for homes</strong> and apartments.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="bg-dark-gray text-white py-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 text-center">
+                        <h2 class="fw-bold mb-3">Retractable Awning Technical Specs</h2>
+                        <div class="mx-auto" style="max-width: 500px;">
+                            <ul class="mb-4 list-unstyled text-start">
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i><b>Frame:</b> powder-coated aluminium for strong, weather-resistant <strong>outdoor awning</strong> performance</li>
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i><b>Fabric:</b> 1000D anti-UV PVC/Polyester, premium <strong>awning fabric</strong> for durability</li>
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i><b>Motor:</b> 230 V tubular motor with remote control for easy <strong>retractable awning</strong> operation</li>
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i>Optional LED lighting, wind/rain auto-retract function for smart <strong>roof awnings</strong></li>
+                                <li class="mb-3"><i class="fa fa-check text-base-color me-2"></i><b>Warranty:</b> 5 years on frame, 3 years on fabric and motor for peace of mind on your <strong>awning canopy</strong></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="bg-nero-grey text-white py-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 text-center">
+                        <h2 class="fw-bold mb-3">Retractable Awning FAQs</h2>
+                        <div class="mx-auto" style="max-width: 500px;">
+                            <style>
+                                .accordion-button::after {
+                                    filter: brightness(0) invert(1); /* makes arrow white */
+                                }
+                                .accordion-button:not(.collapsed)::after {
+                                    filter: brightness(0) invert(1); /* keep arrow white when open */
+                                }
+                                .accordion-button {
+                                    color: #fff !important;
+                                    background-color: inherit !important;
+                                }
+                                .accordion-button:focus {
+                                    box-shadow: none;
+                                }
+                            </style>
+                            <div class="accordion" id="faqAccordion">
+                                <div class="accordion-item bg-nero-grey border-0 mb-3">
+                                    <h3 class="accordion-header" id="faqHeading1">
+                                        <button class="accordion-button collapsed bg-nero-grey text-white fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse1" aria-expanded="false" aria-controls="faqCollapse1">
+                                            <span class="me-2">1.</span>How long to install a retractable awning?
+                                        </button>
+                                    </h3>
+                                    <div id="faqCollapse1" class="accordion-collapse collapse" aria-labelledby="faqHeading1" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body text-white">
+                                            Approx. 1–2 days depending on size & access for your <strong>awning on house</strong> or business.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item bg-nero-grey border-0 mb-3">
+                                    <h3 class="accordion-header" id="faqHeading2">
+                                        <button class="accordion-button collapsed bg-nero-grey text-white fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse2" aria-expanded="false" aria-controls="faqCollapse2">
+                                            <span class="me-2">2.</span>Do sensors come standard?
+                                        </button>
+                                    </h3>
+                                    <div id="faqCollapse2" class="accordion-collapse collapse" aria-labelledby="faqHeading2" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body text-white">
+                                            Yes, for motorised <strong>retractable awning</strong> models.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item bg-nero-grey border-0 mb-3">
+                                    <h3 class="accordion-header" id="faqHeading3">
+                                        <button class="accordion-button collapsed bg-nero-grey text-white fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse3" aria-expanded="false" aria-controls="faqCollapse3">
+                                            <span class="me-2">3.</span>Can we choose colours for our awning fabric?
+                                        </button>
+                                    </h3>
+                                    <div id="faqCollapse3" class="accordion-collapse collapse" aria-labelledby="faqHeading3" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body text-white">
+                                            We offer 50+ <strong>fabric awning</strong> colours in mesh or solid for your <strong>awning canopy</strong> or <strong>canopy awning</strong>.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end: Additional Content for SEO and User Info -->
+        <!-- start section -->
+        <section class="bg-dark-gray background-position-center-top" style="background-image: url('images/demo-architecture-dotted-pattern.svg'); padding: 80px 0;">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 text-center">
+                        <h2 class="text-white fw-600 mb-4">Book Your Free Site Visit Today</h2>
+                        <p class="text-white fs-20 mb-4">Our team is excited to explore the right outdoor sunshade, awning, or canopy for your space, for free! Click the WhatsApp button below to schedule your free on-site consultation with our team.</p>
+                        <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-extra-large btn-rounded with-rounded fw-600" style="background-color: #25D366; border-color: #25D366; color: white;">WhatsApp Us Now</a>
                     </div>
                 </div>
             </div>
