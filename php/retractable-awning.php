@@ -21,16 +21,8 @@
                     <div class="col-lg-7 md-mb-50px xs-mb-30px" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
                         <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Products</span>
                         <h4 class="text-white mb-20px fw-600">Retractable Awning</h4>
-                        <p>Transform your patio, deck, or balcony into an oasis of comfort and style with our latest Retractable Awning. Meticulously designed with functionality and aesthetic appeal in mind, this awning features a durable chain arm system that ensures smooth operation and longevity.</p>
-                        <!-- <center><img src="img/pro-01/tripler-pro-01-01.png" style="margin: 2rem 0;"></center> -->
-                        <p>Our retractable awning is available in a wide range of customizable sizes, from 2 meters to a sprawling 30 meters. This flexibility makes it ideal for various settings, whether you need to shade a small balcony or a large outdoor entertainment area. No more worrying about awkward fits—our awning is tailored to meet your specific needs.</p>
-                        <a href="#services" class="btn btn-link btn-hover-animation-switch btn-medium text-white primary-font sm-vertical-align-top section-link ls-1px">
-                            <!-- <span>
-                                <span class="btn-text">Explore services</span>
-                                <span class="btn-icon"><i class="fa-solid fa-arrow-right fs-14"></i></span>
-                                <span class="btn-icon"><i class="fa-solid fa-arrow-right fs-14"></i></span>
-                            </span>  -->
-                        </a>
+                        <p class="mb-4">Upgrade your outdoor space with a <strong>retractable awning</strong> from Triple R Shade – your trusted <strong>awning supplier</strong> in Malaysia. Our <strong>retractable awnings</strong> are perfect for homes, balconies, car porches, and commercial spaces, offering stylish protection from sun and rain. Choose from a wide range of <strong>awning fabric</strong> options and enjoy expert installation for your <strong>house awning</strong>, <strong>awning canopy</strong>, or <strong>canopy awning</strong> needs.</p>
+                        <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" class="btn btn-extra-large btn-rounded with-rounded fw-600 mb-4" style="background-color: #25D366; border-color: #25D366; color: white;">WhatsApp Us Now</a>
                     </div>
 
                     <div class="row mb-6 pt-5">
