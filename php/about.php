@@ -94,7 +94,7 @@
                                 </div>
                                 <div class="col-md-9">
                                     <span class="text-white fw-500 fs-17">Durability and Quality: </span><br>
-                                    <span class="text-white fw-200 fs-15">We understand that outdoor products must withstand the elements. That’s why we use only the highest quality materials in our manufacturing process. Our garden umbrellas, zip blinds, and tension shades are built to last, ensuring that your investment provides years of enjoyment.</span>
+                                    <span class="text-white fw-200 fs-15">We understand that outdoor products must withstand the elements. That’s why we use only the highest quality materials in our manufacturing process. Our sunshade solution products are built to last, ensuring that your investment provides years of enjoyment.</span>
                                 </div>
                                 <!-- <div class="col-md-3">
                                     <span class="fw-500">Landscape</span>

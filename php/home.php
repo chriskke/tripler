@@ -4,8 +4,8 @@
     <div class="container position-relative z-index-1">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-md-10 text-center text-white py-5">
-                <h1 class="fw-bold display-4 mb-4" style="text-shadow: 0 2px 8px rgba(0,0,0,0.7);">Expert Outdoor Sunshade, Canopy & Awning Installation</h1>
-                <p class="lead mb-4" style="background: rgba(0,0,0,0.5); display: inline-block; padding: 1rem 2rem; border-radius: 8px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
+                <h1 class="fw-bold display-4 mb-4" style="text-shadow: 0 2px 8px rgba(0,0,0,0.7);">Expert Outdoor Sunshade, Canopy & Awning Supplies</h1>
+                <p class="lead mb-4" style="background: rgba(0,0,0,0.5); display: inline-block; padding: 1rem 2rem; border-radius: 8px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert supplier of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
                 <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" rel="noopener noreferrer" class="btn btn-success btn-lg fw-bold shadow" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit on WhatsApp</a>
             </div>
         </div>
@@ -26,7 +26,7 @@
                     </li>
                     <li class="pb-20px d-flex">
                         <i class="fa-solid fa-check text-base-color me-3 mt-1"></i>
-                        <span><strong>Local expertise:</strong> Proven installations in both residential and commercial sunshade projects in Malaysia.</span>
+                        <span><strong>Local expertise:</strong> Proven supply in both residential and commercial sunshade projects in Malaysia.</span>
                     </li>
                     <li class="pb-20px d-flex">
                         <i class="fa-solid fa-check text-base-color me-3 mt-1"></i>
@@ -34,7 +34,7 @@
                     </li>
                     <li class="d-flex">
                         <i class="fa-solid fa-check text-base-color me-3 mt-1"></i>
-                        <span><strong>Premium materials & warranty:</strong> with aluminium frames, anti-UV fabrics, robust motors, and dedicated after-sales support.</span>
+                        <span><strong>Premium materials & warranty:</strong> with aluminium alloy retractable arm, anti-UV fabrics, robust motors, and dedicated after-sales support.</span>
                     </li>
                 </ul>
                 <div class="text-center mt-5">
@@ -280,7 +280,7 @@
                         </div>
                         <div class="col-md-12">
                             <a href="/retractable-awning/" class="text-decoration-underline text-white"><span class="text-white fw-500 fs-18"><b>Retractable Awnings:</b> </span></a><br>
-                            <span class="text-white fw-200 fs-15">A Experience the ultimate flexibility with our retractable awnings. These innovative solutions allow you to control your outdoor space effortlessly, providing shade when you need it and retracting to let in the sun when you desire. Perfect for patios, decks, and balconies, our awnings are designed to withstand the elements while enhancing the aesthetic appeal of your property.</span>
+                            <span class="text-white fw-200 fs-15">Experience the ultimate flexibility with our retractable awnings. These innovative solutions allow you to control your outdoor space effortlessly, providing shade when you need it and retracting to let in the sun when you desire. Perfect for patios, decks, and balconies, our awnings are designed to withstand the elements while enhancing the aesthetic appeal of your property.</span>
                         </div>
                     </div>
                 </div>
@@ -565,7 +565,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-10 text-center mb-5">
                 <h2 class="text-white fw-600">Compare Triple R to Other Outdoor Sunshade Providers</h2>
-                <p class="text-white">We handle everything—consultation, installation, servicing—no middleman needed.</p>
+                <p class="text-white">We handle everything—consultation, servicing—no middleman needed.</p>
             </div>
             <div class="col-lg-10">
                 <table class="table table-bordered table-dark" style="--bs-table-border-color: #444;">
@@ -579,11 +579,6 @@
                     <tbody>
                         <tr>
                             <td>30-year track record</td>
-                            <td class="text-center"><i class="fa-solid fa-check text-success"></i></td>
-                            <td class="text-center"><i class="fa-solid fa-times text-danger"></i></td>
-                        </tr>
-                        <tr>
-                            <td>Local installation teams</td>
                             <td class="text-center"><i class="fa-solid fa-check text-success"></i></td>
                             <td class="text-center"><i class="fa-solid fa-times text-danger"></i></td>
                         </tr>
