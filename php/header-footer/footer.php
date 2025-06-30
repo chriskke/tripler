@@ -54,11 +54,11 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5 text-center text-lg-start md-mb-10px"> 
                             <ul class="footer-navbar fs-15 lh-normal">
-                                <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
-                                <li class="nav-item"><a href="about-us.php" class="nav-link">About Us</a></li>
+                                <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
+                                <li class="nav-item"><a href="/about-us/" class="nav-link">About Us</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Products</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link">Gallery</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link">Contact Us</a></li>  
+                                <li class="nav-item"><a href="/gallery/" class="nav-link">Gallery</a></li>
+                                <li class="nav-item"><a href="/contact/" class="nav-link">Contact Us</a></li>  
                             </ul>
                         </div>   
                         <div class="col-lg-7 text-center text-lg-end"> 
@@ -81,4 +81,13 @@
         <script type="text/javascript" src="js/jquery.js"></script>
         <script type="text/javascript" src="js/vendors.min.js"></script>
         <script type="text/javascript" src="js/main.js"></script>
+        <!-- WhatsApp Floating Button -->
+        <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." 
+           class="whatsapp-float" 
+           target="_blank" 
+           rel="noopener" 
+           title="Contact us on WhatsApp">
+            <span class="whatsapp-tooltip">Contact us</span>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" style="width:48px;height:48px;">
+        </a>
     </body>
