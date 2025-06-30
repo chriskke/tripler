@@ -19,9 +19,17 @@
             <div class="col-lg-12 md-mb-50px xs-mb-30px" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
                 <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Products</span>
                 <h4 class="text-white mb-20px fw-600">Jumbrella</h4>
-                <p>A "jumbrella" is a term commonly used to refer to a large or oversized umbrella. It is often used for special events, outdoor activities, or commercial purposes. Jumbrellas are typically larger than standard umbrellas and are designed to provide shade or shelter for multiple people or a large area. They can be seen in places like outdoor cafes, festivals, sports events, or even as beach umbrellas.</p>
+                <p>Welcome to the future of outdoor comfort with <strong>Jumbrella</strong>—the world's first <strong>giant commercial umbrella</strong> that combines cutting-edge technology with luxurious design. This <strong>fully motorized, remote-controlled masterpiece</strong> creates an impressive <strong>21-foot canopy of shade</strong>, perfect for <strong>high-end resorts, beach clubs, poolside venues, and trendy rooftop bars</strong>.</p>  
+
+                <p>Designed for ultimate convenience, Jumbrella operates with just a tap—no cords, no cranks, just seamless automation. Its <strong>weather-resistant construction</strong> stands strong against sun, wind, and light rain, while <strong>integrated LED lighting</strong> sets the perfect mood for evening ambiance.</p>  
                 
-                <p>In some cases, "jumbrella" can also refer to specific umbrella designs or brands known for their large size and sturdy construction, often built to withstand various weather conditions. The term might also be used metaphorically in business or organizations to represent a large umbrella brand or entity that encompasses many smaller brands or units beneath it.</p>
+                <p>More than just shade, Jumbrella is an experience—transforming ordinary outdoor spaces into sophisticated retreats where guests can relax in style. The sleek, modern design elevates any venue, making it ideal for <strong>upscale commercial spaces</strong> that prioritize both aesthetics and functionality.</p>  
+                
+                <p><strong>Effortless. Elegant. Exceptional.</strong></p>  
+                
+                <p>Upgrade your outdoor environment with Jumbrella—where innovative engineering meets unparalleled comfort.</p>  
+                
+                <p><strong>Experience the pinnacle of shade technology today.</strong></p>
                 <a href="#services" class="btn btn-link btn-hover-animation-switch btn-medium text-white primary-font sm-vertical-align-top section-link ls-1px">
                     <!-- <span>
                         <span class="btn-text">Explore services</span>
