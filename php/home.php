@@ -312,7 +312,7 @@
                         </div>
                         <div class="col-md-12">
                             <a href="/jumbrella/" class="text-decoration-underline text-white"><span class="text-white fw-500 fs-18"><b>Jumbrella:</b> </span></a><br>
-                            <span class="text-white fw-200 fs-15">Designed for ultimate convenience, Jumbrella operates with just a tap—no cords, no cranks, just seamless automation. Its weather-resistant construction stands strong against sun, wind, and light rain, while **integrated LED lighting** sets the perfect mood for evening ambiance. </span>
+                            <span class="text-white fw-200 fs-15">Designed for ultimate convenience, Jumbrella operates with just a tap - no cords, no cranks, just seamless automation. Its weather-resistant construction stands strong against sun, wind, and light rain, while integrated LED lighting sets the perfect mood for evening ambiance. </span>
                         </div>
                     </div>
                 </div>
