@@ -1,37 +1,17 @@
-<!-- start banner -->
-<section class="p-0 bg-dark-gray">
-    <div class="swiper home-hero-slider" data-slider-options='{ "slidesPerView": 1, "loop": true, "navigation": { "nextEl": ".slider-one-slide-next-1", "prevEl": ".slider-one-slide-prev-1" }, "autoplay": { "delay": 2000, "disableOnInteraction": false },  "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "fade" }'>
-        <div class="swiper-wrapper">
-            <!-- start slider item -->
-            <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-3.jpg');"></div>
-            <!-- end slider item -->
-            <!-- start slider item -->
-            <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-1.jpg');"></div>
-            <!-- end slider item -->
-            <!-- start slider item -->
-            <div class="swiper-slide cover-background" style="background-image:url('img/slider/slider-2.jpg');"></div>
-            <!-- end slider item -->
-        </div>
-        <div class="position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center" style="z-index: 1">
-            <div class="container h-100">
-                <div class="row h-100">
-                    <div class="col-md-10 position-relative text-white">
-                        <h1 class="slider-text alt-font fs-85 lg-fs-75 xs-fs-32 mb-60px md-mb-45px xs-mb-25px w-95 xl-w-95 md-w-100 ls-minus-1px text-shadow-double-large">
-                            <span class="d-block fw-700 font-style-italic">Expert Outdoor Sunshade, Canopy & Awning Installation</span>
-                        </h1>
-                        <p class="w-90 lg-w-100 fs-20 xs-fs-14" style="background-color: rgba(0, 0, 0, 0.6); padding: 15px; border-radius: 5px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
-                        <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" rel="noopener noreferrer" class="btn btn-large btn-rounded with-rounded fw-600" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 15px;">Book Free Visit</a>
-                    </div>
-                </div>
+<!-- start banner (Best Practice Hero) -->
+<section class="hero-banner hero-banner--mobile-space position-relative d-flex align-items-center justify-content-center" style="min-height: 60vh; background: url('img/slider/slider-3.jpg') center center/cover no-repeat;">
+    <div class="hero-overlay position-absolute top-0 start-0 w-100 h-100" style="background: rgba(0,0,0,0.6);"></div>
+    <div class="container position-relative z-index-1">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-md-10 text-center text-white py-5">
+                <h1 class="fw-bold display-4 mb-4" style="text-shadow: 0 2px 8px rgba(0,0,0,0.7);">Expert Outdoor Sunshade, Canopy & Awning Installation</h1>
+                <p class="lead mb-4" style="background: rgba(0,0,0,0.5); display: inline-block; padding: 1rem 2rem; border-radius: 8px;">Triple R Shade improves outdoor spaces across Kuala Lumpur, Selangor, Ipoh, and Melaka with expert installation of awnings, pergolas, parasols, and custom sunshade systems—built to withstand Malaysia's weather and backed by 30+ years of local experience. Book your free site visit today!</p>
+                <a href="https://api.whatsapp.com/send?phone=60162871797&text=Hi%20Triple%20R%20Shade,%20I%20want%20to%20ask..." target="_blank" rel="noopener noreferrer" class="btn btn-success btn-lg fw-bold shadow" style="background-color: #25D366; border-color: #25D366; color: white; margin-top: 20px;">Book Free Visit on WhatsApp</a>
             </div>
         </div>
-        <!-- start slider navigation -->
-        <div class="swiper-button-prev slider-one-slide-prev-1 swiper-button-white"><i class="feather icon-feather-arrow-left"></i></div>
-        <div class="swiper-button-next slider-one-slide-next-1 swiper-button-white"><i class="feather icon-feather-arrow-right"></i></div>
-        <!-- end slider navigation -->
     </div>
 </section>
-<!-- end banner --> 
+<!-- end banner -->
   
 <!-- start section -->
 <section class="bg-dark-gray background-position-center-top overflow-hidden" style="background-image: url('images/demo-architecture-dotted-pattern.svg')">

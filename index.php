@@ -20,7 +20,7 @@ $seo_data = [
     'retractable-awning' => [
         'canonical' => 'https://tripler.com.my/retractable-awning/',
         'title' => 'Retractable Awnings Malaysia - Stylish & Durable | Triple R Shade',
-        'description' => 'Explore our premium range of retractable awnings. Perfect for patios and balconies, providing stylish and durable sun shade solutions for your home or business.',
+        'description' => 'Our retractable awnings provide instant UV protection, flexible weather control, and thermal comfort across Selangor, KL, Ipoh & Melaka.',
         'keywords' => 'retractable awning, motorized awning, patio awning, sun shade, custom awning',
         'image' => 'img/logo.png' // You can change this to a specific product image
     ],
