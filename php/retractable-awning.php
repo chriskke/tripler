@@ -15,7 +15,7 @@
             <div class="container overlap-gap-section">
                 <div class="row mb-7 sm-mb-0">
                     <div class="col-lg-5">
-                        <img style="padding:10px;" src="img/products/upscale/retractable-awining.png" alt="">
+                        <img style="padding:10px;" src="img/products/upscale/retractable-awining.png" alt="retractable awning malaysia">
                     </div>
                     
                     <div class="col-lg-7 md-mb-50px xs-mb-30px" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
@@ -45,7 +45,7 @@
                                     <div class="gallery-box overflow-hidden">
                                         <a href="img/products/gallery-rec-awning-1.jpg" data-group="lightbox-gallery" title="Lightbox gallery image title...">
                                             <div class="position-relative gallery-image bg-white overflow-hidden">
-                                                <img src="img/products/gallery-rec-awning-1.jpg" alt="" />
+                                                <img src="img/products/gallery-rec-awning-1.jpg" alt="retractable awning malaysia" />
                                                 <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
                                                     <div class="d-flex align-items-center justify-content-center w-50px h-50px rounded-circle bg-dark-gray">
                                                         <i class="feather icon-feather-search text-white icon-small"></i>
@@ -61,7 +61,7 @@
                                     <div class="gallery-box overflow-hidden">
                                         <a href="img/products/gallery-rec-awning-2.jpg" data-group="lightbox-gallery" title="Lightbox gallery image title...">
                                             <div class="position-relative gallery-image bg-white overflow-hidden">
-                                                <img src="img/products/gallery-rec-awning-2.jpg" alt="" />
+                                                <img src="img/products/gallery-rec-awning-2.jpg" alt="retractable awning malaysia" />
                                                 <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
                                                     <div class="d-flex align-items-center justify-content-center w-50px h-50px rounded-circle bg-dark-gray">
                                                         <i class="feather icon-feather-search text-white icon-small"></i>

@@ -38,7 +38,7 @@
                     </li>
                 </ul>
                 <div class="text-center mt-5">
-                    <img src="img/30th.png" alt="30+ years experience" style="width: 150px;">
+                    <img src="img/30th.png" alt="30+ years experience outdoor sunshade malaysia" style="width: 150px;">
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
                             <div class="swiper-slide"> 
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/retractable-awning.jpg" alt="Retractable Awnings" />
+                                        <img src="img/index/services/retractable-awning.jpg" alt="Retractable Awnings outdoor sunshade malaysia" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
                                         <a href="/retractable-awning/" class="banners-icon text-white icon-hover-base-color position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
@@ -105,7 +105,7 @@
                             <div class="swiper-slide">
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/skylight-blinds.jpg" alt="Skylight Blinds & Zip Blinds" />
+                                        <img src="img/index/services/skylight-blinds.jpg" alt="Skylight Blinds & Zip Blinds outdoor sunshade malaysia" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
                                         <a href="/skylite/" class="banners-icon text-white icon-hover-base-color position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
@@ -125,7 +125,7 @@
                             <div class="swiper-slide">
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/louvers-pegola.jpg" alt="Motorised Louvers Pergola" />
+                                        <img src="img/index/services/louvers-pegola.jpg" alt="Motorised Louvers Pergola outdoor sunshade malaysia" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
                                         <a href="/pergola/" class="banners-icon icon-hover-base-color text-white position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
@@ -145,7 +145,7 @@
                             <div class="swiper-slide">
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/loop-awning.jpg" alt="Loop Awnings & Jumbrella" />
+                                        <img src="img/index/services/loop-awning.jpg" alt="Loop Awnings & Jumbrella outdoor sunshade malaysia" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
                                         <a href="/loop/" class="banners-icon icon-hover-base-color text-white position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
@@ -165,7 +165,7 @@
                             <div class="swiper-slide"> 
                                 <div class="interactive-banner-style-06">                                    
                                     <div class="interactive-banners-image">
-                                        <img src="img/index/services/jumbrella.jpg" alt="Parasols" />
+                                        <img src="img/index/services/jumbrella.jpg" alt="Parasols outdoor sunshade malaysia" />
                                         <div class="overlay-bg bg-gradient-dark-transparent opacity-light"></div>
                                         <a href="/parasols/" class="banners-icon text-white icon-hover-base-color position-absolute top-60px left-60px lg-top-30px lg-left-30px">
                                             <i class="line-icon-Heart icon-large"></i>
@@ -250,8 +250,8 @@
                 <!-- end slider pagination --> 
             </div>
         </div>
-        <div class="row row-cols-lg-12 clients-style-06">
-            <img src="img/pro-01/tripler-pro-01-05.png" alt="">
+                    <div class="row row-cols-lg-12 clients-style-06">
+            <img src="img/pro-01/tripler-pro-01-05.png" alt="outdoor sunshade malaysia">
         </div>
     </div>
 </section>
@@ -271,7 +271,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <a href="/retractable-awning/"><img src="img/gallery/new/gallery-17.jpg" alt="Retractable Awnings"></a>
+                        <a href="/retractable-awning/"><img src="img/gallery/new/gallery-17.jpg" alt="Retractable Awnings outdoor sunshade malaysia"></a>
                     </div>
                     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -287,7 +287,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <a href="/pergola/"><img src="img/products/gallery-louvers-1.jpg" alt="Motorized Louvers Pergola"></a>
+                        <a href="/pergola/"><img src="img/products/gallery-louvers-1.jpg" alt="Motorized Louvers Pergola outdoor sunshade malaysia"></a>
                     </div>
                     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -303,7 +303,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <a href="/jumbrella/"><img src="img/products/gallery-jumbrella-1.jpg" alt="Jumbrella"></a>
+                        <a href="/jumbrella/"><img src="img/products/gallery-jumbrella-1.jpg" alt="Jumbrella outdoor sunshade malaysia"></a>
                     </div>
     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -319,7 +319,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <a href="/skylite/"><img src="img/products/gallery-zipblinds-1.jpg" alt="Zip Blinds"></a>
+                        <a href="/skylite/"><img src="img/products/gallery-zipblinds-1.jpg" alt="Zip Blinds outdoor sunshade malaysia"></a>
                     </div>
     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -335,7 +335,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <a href="/skylite/"><img src="img/products/gallery-tension-1.jpg" alt="Skylight Blinds"></a>
+                        <a href="/skylite/"><img src="img/products/gallery-tension-1.jpg" alt="Skylight Blinds outdoor sunshade malaysia"></a>
                     </div>
     
                     <div class="col-lg-6 pt-25px pb-25px border-bottom border-color-charcoal-grey g-0 position-relative sm-pe-40px">
@@ -351,7 +351,7 @@
 
                 <div class="row core-item pt-5">
                     <div class="col-lg-6">
-                        <a href="/parasols/"><img src="img/products/gallery-parasols.jpg" alt="Parasols"></a>
+                        <a href="/parasols/"><img src="img/products/gallery-parasols.jpg" alt="Parasols outdoor sunshade malaysia"></a>
                     </div>
     
                     <div class="col-lg-6 pt-25px pb-25px g-0 position-relative sm-pe-40px sm-pb-0">
@@ -384,7 +384,7 @@
 
                         <!-- start text slider item -->
                         <div class="swiper-slide">
-                            <img src="img/index/recent/full-cassette-retractable-awning.jpg" alt="" />
+                            <img src="img/index/recent/full-cassette-retractable-awning.jpg" alt="Full Cassette Retractable Awning outdoor sunshade malaysia" />
                             <div class="container position-absolute sm-position-relative bottom-0 right-0px z-index-1 swiper-slide-content">
                                 <div class="row justify-content-end align-items-end h-100">
                                     <div class="col-lg-5 col-md-7 p-0">
@@ -407,7 +407,7 @@
                         <!-- end text slider item -->
                         <!-- start text slider item -->
                         <div class="swiper-slide">
-                            <img src="img/index/recent/jumbrella.jpg" alt="" />
+                            <img src="img/index/recent/jumbrella.jpg" alt="Jumbrella outdoor sunshade malaysia" />
                             <div class="container position-absolute sm-position-relative bottom-0 right-0px z-index-1 swiper-slide-content">
                                 <div class="row justify-content-end align-items-end h-100">
                                     <div class="col-lg-5 col-md-7 p-0">
@@ -430,7 +430,7 @@
                         <!-- end text slider item -->
                         <!-- start text slider item -->
                         <div class="swiper-slide">
-                            <img src="img/index/recent/loop-awning.jpg" alt="" />
+                            <img src="img/index/recent/loop-awning.jpg" alt="Loop Awning outdoor sunshade malaysia" />
                             <div class="container position-absolute sm-position-relative bottom-0 right-0px z-index-1 swiper-slide-content">
                                 <div class="row justify-content-end align-items-end h-100">
                                     <div class="col-lg-5 col-md-7 p-0">
@@ -453,7 +453,7 @@
                         <!-- end text slider item -->
                         <!-- start text slider item -->
                         <div class="swiper-slide">
-                            <img src="img/index/recent/louvers-pergola.jpg" alt="" />
+                            <img src="img/index/recent/louvers-pergola.jpg" alt="Louvers Pergola outdoor sunshade malaysia" />
                             <div class="container position-absolute sm-position-relative bottom-0 right-0px z-index-1 swiper-slide-content">
                                 <div class="row justify-content-end align-items-end h-100">
                                     <div class="col-lg-5 col-md-7 p-0">
@@ -476,7 +476,7 @@
                         <!-- end text slider item -->
                         <!-- start text slider item -->
                         <div class="swiper-slide">
-                            <img src="img/index/recent/rectractable-awning.jpg" alt="" />
+                            <img src="img/index/recent/rectractable-awning.jpg" alt="Retractable Awning outdoor sunshade malaysia" />
                             <div class="container position-absolute sm-position-relative bottom-0 right-0px z-index-1 swiper-slide-content">
                                 <div class="row justify-content-end align-items-end h-100">
                                     <div class="col-lg-5 col-md-7 p-0">
@@ -499,7 +499,7 @@
                         <!-- end text slider item -->
                         <!-- start text slider item -->
                         <div class="swiper-slide">
-                            <img src="img/index/recent/skylight-blinds.jpg" alt="" />
+                            <img src="img/index/recent/skylight-blinds.jpg" alt="Skylight Blinds outdoor sunshade malaysia" />
                             <div class="container position-absolute sm-position-relative bottom-0 right-0px z-index-1 swiper-slide-content">
                                 <div class="row justify-content-end align-items-end h-100">
                                     <div class="col-lg-5 col-md-7 p-0">
