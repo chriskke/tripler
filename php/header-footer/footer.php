@@ -14,7 +14,7 @@
                 <div class="row align-items-start mb-6 mt-6 xs-mb-9">
                     <!-- start footer column -->
                     <div class="col-lg-3 col-sm-12 last-paragraph-no-margin text-center text-sm-start md-mb-30px">
-                        <center><a href="index.php" class="footer-logo d-inline-block"><img src="img/logo.png" data-at2x="img/logo.png" alt=""></a></center>
+                        <center><a href="/" class="footer-logo d-inline-block"><img src="img/logo.png" data-at2x="img/logo.png" alt=""></a></center>
                     </div>
                     <!-- end footer column -->
                     <!-- start footer column -->
