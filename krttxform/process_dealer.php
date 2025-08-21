@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-    $recipient_email = "chris552611@gmail.com"; // recipient email
+    $recipient_email = "tripler.buzz@gmail.com"; // recipient email
     // $recipient_email = "shafiq@asiapacific.com.my"; // recipient email
     $from_email = "Triple R <no-reply@tripler.com.my>";
     $subject = "Triple R | Dealer Applications"; // email subject line
