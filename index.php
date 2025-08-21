@@ -101,6 +101,14 @@ $request_uri = $_SERVER['REQUEST_URI'];
 $request_path = strtok($request_uri, '?'); // Remove query string
 $page_slug = trim($request_path, '/');   // Remove leading/trailing slashes
 
+// 3a. Handle POST to pretty URL for form processing (production may rewrite .php to slash)
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    if ($request_path === '/krttxform/process_dealer' || $request_path === '/krttxform/process_dealer/') {
+        require __DIR__ . '/krttxform/process_dealer.php';
+        exit;
+    }
+}
+
 // 3. Map the URL slugs to the actual PHP filenames.
 $page_map = [
     '' => 'home',

@@ -20,7 +20,7 @@
                             Thank you! Your application has been submitted.
                         </div>
                         <?php endif; ?>
-                        <form action="krttxform/process_dealer.php" method="post" enctype="multipart/form-data" class="row">
+                        <form action="/krttxform/process_dealer" method="post" enctype="multipart/form-data" class="row">
                             
                             <div class="col-12">
                                 <label for="subject">Subject:</label>
