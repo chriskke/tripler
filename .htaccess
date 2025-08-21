@@ -11,14 +11,18 @@ RewriteBase /
 # Prevent directory listing
 Options -Indexes
 
-# 1. Redirect .php requests to clean URLs with a trailing slash
+# 1. Redirect .php requests to clean URLs with a trailing slash (GET only, exclude form handlers)
+RewriteCond %{REQUEST_METHOD} GET
+RewriteCond %{REQUEST_URI} !^/krttxform/ [NC]
 RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
 RewriteRule ^ /%1/ [R=301,L]
 
-# 2. Add a trailing slash if the request is not for a file or directory
+# 2. Add a trailing slash if the request is not for a file or directory (GET only, exclude form handlers)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteCond %{REQUEST_METHOD} GET
+RewriteCond %{REQUEST_URI} !^/krttxform [NC]
 RewriteRule ^(.*)$ %{REQUEST_URI}/ [R=301,L]
 
 # 3. Route all "virtual" page requests to the index.php front controller
