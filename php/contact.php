@@ -15,7 +15,12 @@
             <div class="container overlap-gap-section">
                 <div class="row mb-7 sm-mb-0">
                     <div class="col-lg-8 krttxform">
-                        <form action="krttxform/process_dealer.php" method="post" enctype="multipart/form-data" class="row">
+                        <?php if (isset($_GET['success']) && $_GET['success'] === '1'): ?>
+                        <div class="alert alert-success" role="alert" style="margin-bottom:15px;">
+                            Thank you! Your message has been submitted.
+                        </div>
+                        <?php endif; ?>
+                        <form action="../krttxform/process_dealer.php" method="post" enctype="multipart/form-data" class="row">
                             
                             <div class="col-12">
                                 <label for="subject">Subject:</label>

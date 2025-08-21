@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_FILES['file'])) {
-    $recipient_email = "faz.apn@gmail.com"; // recipient email
+    $recipient_email = "chris552611@gmail.com"; // recipient email
     $from_email = "companyname <no-reply@companyname.com>";
     $subject = "companyname Enquiry"; // email subject line
 

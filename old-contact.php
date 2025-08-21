@@ -1,10 +1,10 @@
 <!-- start page title -->
-<section class="ipad-top-space-margin page-title-big-typography bg-dark-gray cover-background background-position-center-top p-0" style="background-image: url(img/index/slider-04.png)">
+<section class="ipad-top-space-margin page-title-big-typography bg-dark-gray cover-background background-position-center-top p-0" style="background-image: url(img/breadcrumb/bc-contact.jpg)">
             <div class="container">
                 <div class="row align-items-end justify-content-center one-half-screen md-small-screen sm-extra-small-screen pb-4" style="max-height: 400px;">
                     <div class="col-lg-10 col-md-8 position-relative page-title-extra-small text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <h2 class="text-white mb-0 text-uppercase ls-3px fw-600">Ready to Make Some Business?</h2>
-                        <h1 class="mb-20px alt-font text-white fw-500 ls-minus-4px">Dealer Wanted</h1>
+                        <h2 class="text-white mb-0 text-uppercase ls-3px fw-600">Feel Free to</h2>
+                        <h1 class="mb-20px alt-font text-white fw-500 ls-minus-4px">Contact Us</h1>
                     </div>
                 </div>
             </div>
@@ -15,17 +15,12 @@
             <div class="container overlap-gap-section">
                 <div class="row mb-7 sm-mb-0">
                     <div class="col-lg-8 krttxform">
-                        <?php if (isset($_GET['success']) && $_GET['success'] === '1'): ?>
-                        <div class="alert alert-success" role="alert" style="margin-bottom:15px;">
-                            Thank you! Your application has been submitted.
-                        </div>
-                        <?php endif; ?>
                         <form action="krttxform/process_dealer.php" method="post" enctype="multipart/form-data" class="row">
                             
                             <div class="col-12">
                                 <label for="subject">Subject:</label>
                                 <select id="subject" name="subject" required>
-                                    <option value="Dealer Wanted">Dealer Wanted</option>
+                                    <option value="Enquiry">Enquiry</option>
                                 </select>
                             </div>
                             
@@ -66,13 +61,11 @@
                     </div>
                     
                     <div class="col-lg-4 md-mb-50px xs-mb-30px" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
-                        <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Dealer Application</span>
-                        <h4 class="text-white mb-20px fw-600">Let's grow together</h4>
-                        <p>We are currently seeking motivated and dedicated dealers to join our growing network! As a dealer, you will play a key role in representing our brand, selling our high-quality products, and helping to expand our market presence.</p>
-                        <p>If you are passionate about providing exceptional customer service and are looking for a lucrative opportunity to grow your business, we want to hear from you.</p>
-                        <h4 class="text-white mb-20px fw-600">How to Apply:</h4>
-                        <p>If you’re interested in becoming a dealer, please fill this form.
-                        </p>
+                        <span class="text-base-color fs-12 fw-600 ls-3px text-uppercase mb-5px d-block">Contact</span>
+                        <h4 class="text-white mb-20px fw-600">Get In Touch With Us</h4>
+                        <p>Thank you for visiting our website! We are delighted to have you here, and we want to assure you that we are always ready and eager to assist you. Our team is committed to providing the best possible service to ensure your experience is seamless and enjoyable. Whether you have a question about any of our products or services, need technical support, or simply wish to share your thoughts, ideas, or feedback, we encourage you to reach out to us.</p>
+
+                        <p>Your satisfaction is our top priority, and your feedback plays a crucial role in helping us improve and better serve you. Rest assured that your concerns will be addressed with the utmost care and attention. We are constantly striving to enhance our offerings and your experience, so don't hesitate to let us know how we can further assist you.</p>
                         <!-- <center><img src="img/pro-01/tripler-pro-01-01.png" style="margin: 2rem 0;"></center> -->
                         <a href="#services" class="btn btn-link btn-hover-animation-switch btn-medium text-white primary-font sm-vertical-align-top section-link ls-1px">
                             <!-- <span>
