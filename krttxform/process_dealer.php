@@ -39,6 +39,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $headers = "MIME-Version: 1.0\r\n";
     $headers .= "From: $from_email\r\n";
     $headers .= "Reply-To: $sender_email\r\n";
+    $headers .= "X-Mailer: PHP/" . phpversion() . "\r\n";
+    $headers .= "X-Priority: 3\r\n";
+    $headers .= "X-MSMail-Priority: Normal\r\n";
     $headers .= "Content-Type: multipart/mixed; boundary=\"$boundary\"\r\n";
 
     // Initialize body

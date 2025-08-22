@@ -59,8 +59,13 @@
                                 <input type="file" id="file" name="file[]" multiple>
                             </div> -->
                             
+                            <!-- Anti-spam honeypot field (hidden from users) -->
+                            <div class="col-12" style="display: none;">
+                                <input type="text" id="AntiSpam" name="AntiSpam" value="ans" tabindex="-1" autocomplete="off">
+                            </div>
+                            
                             <div class="col-12">
-                                <input type="submit" value="Submit" onclick="validate(document.getElementById('AntiSpam').value, 'ans')"></input>
+                                <input type="submit" value="Submit" class="btn btn-medium btn-base-color">
                             </div>
                         </form>
                     </div>
